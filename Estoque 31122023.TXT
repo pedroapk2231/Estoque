@@ -1,0 +1,1408 @@
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 001
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002721 ABS ALWAYS BASICO C/ ABAS C/ 1 CX               0,00     79,41      79,41
+001607 ABS ALWAYS BASICO S/ ABAS C/ 1 CX               0,00     68,45      68,45
+001667 ACENDEDOR FOGAO LUME COR       UN               9,00      8,16       8,16
+002734 ACUCAR CRISTAL COAGRO 2KG(15)  PC              21,00     10,26      10,26
+002852 ACUCAR REFINADO CARAVELAS KG(1 PC              42,00      5,87       5,87
+001964 ACUCAR REFINADO COAGRO KG (10) PC               3,00      5,18       5,18
+000826 ACUCAR REFINADO UNIAO KG (10)  PC               0,00      6,08       6,08
+000827 ACUCAR UNIAO PREMIUM SACHE C/4 CX             143,00     27,52      27,52
+002898 ADOCANTE ZERO CAL STEVIA SACHE CX               0,00      9,69       9,69
+000175 ADOCANTE ZERO CALL SACARINA LI UN               4,00      8,32       8,32
+002331 ADOCANTE ZERO CALL SUCRAL SACH CX              36,00      8,30       8,30
+002449 ADOCANTE ZERO CALL SUCRALOSE L UN               6,00      9,48       9,48
+002688 AGUA MINERAL FENIX 10LT        LT               0,00     11,06      11,06
+000004 AGUA MINERAL FENIX 1500ML S/G  FD             330,00     10,92      10,92
+000005 AGUA MINERAL FENIX 510ML S/G C FD           1.341,00     10,22      10,22
+002805 AGUA MINERAL FENIX C/ GAS 510M FD             274,00     16,52      16,52
+000087 AGUA MINERAL PASSA QUATRO 510  CX               0,00     17,61      17,61
+002763 AGUA MINERAL PASSA QUATRO 510  FD               0,00     11,90      11,90
+000165 AGUA SANITARIA M LAGOS 1LT (12 LT             174,00      2,72       2,72
+000204 AGUA SANITARIA M LAGOS 2LT (6) UN              82,00      5,07       5,07
+000198 AGUA SANITARIA M LAGOS 5LT (4) GL               0,00     11,93      11,93
+002374 AGUARD VELHO ENG BLEND 4 MAD S LT              37,00     11,06      11,06
+002351 AGUARD VELHO ENG BR JEQUITIBA  LT               0,00     11,06      11,06
+002443 AGUARDENTE 44 CARVALHO LT (12) LT               0,00     11,96      11,96
+001539 AGUARDENTE 51 BR C/C (12)      LT           2.265,00     12,88      12,88
+000206 AGUARDENTE 51 BR S/C (12)      LT           3.052,00     12,03      12,03
+000086 AGUARDENTE 88 965ML (12)       LT              88,00     14,39      14,39
+000207 AGUARDENTE CHANCELER (12)      LT              48,00     21,24      21,24
+001515 AGUARDENTE DA ROCA BR C/C(12)  LT              54,00      8,51       8,51
+002973 AGUARDENTE DA ROCA BR S/C(12)  LT             298,00      7,94       7,94
+001973 AGUARDENTE JACUTINGA AM C/C (1 LT              59,00     11,90      11,90
+000208 AGUARDENTE JACUTINGA AM S/C (1 LT           1.054,00     11,54      11,54
+001974 AGUARDENTE JACUTINGA BR C/C (1 LT             102,00     11,90      11,90
+000209 AGUARDENTE JACUTINGA BR S/C (1 LT             638,00     11,54      11,54
+001972 AGUARDENTE JARARACA LT C/C (12 LT              45,00     11,43      11,43
+000075 AGUARDENTE JARARACA LT S/C (12 LT             467,00     10,39      10,39
+000044 AGUARDENTE MONTENARA BR S/C (1 LT              27,00      9,66       9,66
+002759 AGUARDENTE NOVIDADE CARTUCHO L LT               0,00     46,66      46,66
+002835 AGUARDENTE PADUANA PET AM 12X5 CX             470,00     29,74      29,74
+000013 AGUARDENTE PADUANA PET BR 12X5 CX           1.628,00     29,74      29,74
+001978 AGUARDENTE PITU 600ML C/12 C/C CX              13,00    115,75     115,75
+002930 AGUARDENTE PRAIANINHA BR 970ML LT             389,00     11,49      11,49
+002929 AGUARDENTE PRAIANINHA BR 970ML LT             755,00      9,99       9,99
+002461 AGUARDENTE SAO FRANCISCO 970ML LT               0,00     30,06      30,06
+001899 AGUARDENTE SELETA 1000ML (12)  LT               0,00     38,05      38,05
+001404 AGUARDENTE VELHO BARREIRO C/C  LT             591,00     14,86      14,86
+002937 AGUARDENTE VELHO BARREIRO S/C  LT             565,00     13,86      13,86
+002958 AGUARDENTE XIBOQUINHA 965ML(12 LT              21,00     21,04      21,04
+000089 AGUARDENTE YPIOCA ORO 960ML (1 LT           1.452,00     20,18      20,18
+001740 ALCOOL GEL COPERALCOOL PUNP 70 UN               0,00      9,94       9,94
+002412 ALCOOL GEL FR 70ø OFICIAL 5LT  GL              49,00     50,00      50,00
+002863 ALCOOL MONTENEGRO LIQ HIDRAT 7 LT               0,00      8,19       8,19
+000530 ALCOOL MONTENEGRO LIQ HIDRAT 9 LT               0,00      8,61       8,61
+002968 ALCOOL PRING LIQUIDO 70øLT(12) UN             379,00      6,99       6,99
+002969 ALCOOL PRING LIQUIDO 92ø LT(12 UN           1.098,00      8,39       8,39
+002780 ALGODAO APOLO 500GR            PC              12,00     24,21      24,21
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 002
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+000323 ALVEJANTE S/ CLORO M LAGOS 2 L UN              39,00      8,79       8,79
+000228 AMACIANTE CARNE C/ TEMPERO KIT PC               1,00     24,57      24,57
+001707 AMACIANTE CARNE QUALIMAX KG (1 PC               0,00     15,69      15,69
+001801 AMACIANTE ROUPA M LAGOS ROSAS  UN               0,00      5,98       5,98
+000229 AMACIANTE ROUPA M LAGOS SOFT B UN              39,00      5,98       5,98
+000230 AMACIANTE ROUPA M LAGOS SOFT B GL               3,00     12,32      12,32
+001332 AMENDOIM GRELHADITOS S/ PELE C PC               4,00     38,33      38,33
+000081 AMENDOIM MENDORATO C/60X27G    PC               6,00     34,76      34,76
+001591 AP BARB PROBAK II 14X2 + 2 ULT CT               0,00     38,50      38,50
+002546 AP BARB PROBAK II C/ 14X2      CT              10,00     39,70      39,70
+002839 AP BARB ULT GRIP PELE SENC 24+ CT              74,00     71,72      71,72
+002334 ASSA RAPIDO MULTIUSO MELLO 45X UN              13,00      3,61       3,61
+002976 ASSADEIRA ALUMINIO OVAL 4LT(20 CX               2,00     70,25      70,25
+002977 ASSADEIRA ALUMINIO OVAL 7,5LT( UN               1,00    112,71     112,71
+000231 AVENTAL DESCARTAVEL 1,00X0,60  PC          99.962,00      9,80       9,80
+000721 AZEITE FAISAO REAL OLEO MISTO  VD               0,00     16,20      16,20
+002866 AZEITE OLEO MISTO OLIVA PEIXE  PET          1.969,00     10,23      10,23
+002853 AZEITONA SABOROSA CARTELA 80GR CT              25,00     31,20      31,20
+001789 BACARD CARTA BLANCA 980ML      LT              17,00     41,38      41,38
+000194 BACARD CARTA ORO 980ML (12)    LT               7,00     40,83      40,83
+002215 BALA DORI RECHEADA HORTELA 600 PC              24,00      9,93       9,93
+002460 BALA ERLAN MASTIGAVEL 600GR (2 PC               0,00      6,27       6,27
+000166 BALDE PLASTICO 15LT            UN              11,00      9,25       9,25
+000242 BALDE PLASTICO 21 LT           UN               7,00     15,97      15,97
+000167 BALDE PLASTICO 8LT             UN               2,00      6,60       6,60
+002254 BANANADA TIPO MARIOLA C/50X50G PC               9,00     33,60      33,60
+000183 BAND-AID C/40 (6)              CX              44,00     10,92      10,92
+001837 BANDEJA ISOP AMARELA CFL002 C/ FD              22,00     62,24      62,24
+002979 BANDEJA ISOP COPOBRAS 3 RASA B FD              11,00     59,30      59,30
+002978 BANDEJA ISOP TOTAL AMAR 002 RA FD              16,00     39,55      39,55
+002193 BANDEJA ISOP TOTAL BR 001 FUND FD              48,00     36,68      36,68
+002162 BANDEJA ISOP TOTAL BR 001 RASA FD              39,00     29,25      29,25
+002164 BANDEJA ISOP TOTAL BR 002 FUND FD              22,00     58,28      58,28
+002163 BANDEJA ISOP TOTAL BR 002 RASA FD              79,00     40,23      40,23
+002165 BANDEJA ISOP TOTAL BR 003 FUND FD              18,00     59,63      59,63
+002237 BANDEJA ISOP TOTAL BR 003 RASA FD              45,00     53,89      53,89
+002080 BANDEJA ISOP TOTAL BR 004 FUND FD              19,00     78,97      78,97
+002192 BANDEJA ISOP TOTAL BR 004 RASA FD               0,00     70,49      70,49
+001874 BANDEJA LAMINADA N-4 27X33CM C PC               0,00     42,92      42,92
+001875 BANDEJA LAMINADA N-5 32X39CM C PC               0,00     52,46      52,46
+001876 BANDEJA LAMINADA N-6 37X46CM C PC               0,00     36,54      36,54
+001877 BANDEJA LAMINADA N-7 43X50CM C PC               0,00     53,07      53,07
+002838 BANDEJA LAMINADA N4 27X33CM C/ UN               0,00    207,20     207,20
+002837 BANDEJA LAMINADA N5 33X41CM C/ PC               3,00    253,26     253,26
+002949 BANDEJA TOTAL PRETA 001 RASA C FD              21,00     29,25      29,25
+002950 BANDEJA TOTAL PRETA 002 FUNDA  FD               0,00     40,43      40,43
+002951 BANDEJA TOTAL PRETA 003 FUNDA  FD               0,00     56,90      56,90
+002754 BATATA ONDA CRAC NAT 40G C/20  CX               0,00     44,55      44,55
+000698 BITTER SANG GALO (6)           LT               0,00     28,31      28,31
+002893 BOBINA ESTRELA  ALLBAG G 38X55 UN             179,00     14,69      14,69
+002892 BOBINA ESTRELA  ALLBAG M 33X45 UN              61,00     15,06      15,06
+002891 BOBINA ESTRELA  ALLBAG P 28X40 UN              82,00     14,27      14,27
+002046 BOBINA ESTRELA G C PLAST40X55  UN               0,00     21,94      21,94
+002834 BOBINA ESTRELA G KPACK38X55 C/ UN               2,00     17,77      17,77
+002045 BOBINA ESTRELA M K-PACK33X45 C UN               0,00     21,71      21,71
+002044 BOBINA ESTRELA P K-PACK28X40 C UN               0,00     16,96      16,96
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 003
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001941 BOBINA FOLHA P/ FRIOS 25X35    UN               0,00     21,70      21,70
+002677 BOBINA FOLHA P/ FRIOS 25X35 C/ UN               0,00     16,53      16,53
+001797 BOBINA FOLHA P/ FRIOS 30X40 C/ UN             308,00     22,22      22,22
+002705 BOBINA P/ FREEZER E MICRO ONDA RL              79,00      1,57       1,57
+002713 BOBINA PICOTADA 20X30 P/ 1KG ( UN             151,00     21,81      21,81
+001792 BOBINA PICOTADA 20X35 P/ 1KG ( UN             225,00     23,55      23,55
+001793 BOBINA PICOTADA 25X35 P/ 2KG ( UN             464,00     27,52      27,52
+001794 BOBINA PICOTADA 30X40 P/ 3KG ( UN             210,00     30,16      30,16
+001795 BOBINA PICOTADA 35X50 P/ 4KG ( UN             222,00     35,83      35,83
+001800 BOBINA PICOTADA 40X50 P/ 5KG ( UN             238,00     47,73      47,73
+001796 BOBINA PICOTADA 40X60 P/ 6KG ( UN             119,00     43,53      43,53
+002132 BOBINA PICOTADA 50X70 P/ 7KG ( UN             135,00     42,17      42,17
+001981 BOBINA STG PAPEL 25CM LEVE     UN              71,00     23,03      23,03
+001815 BOBINA STG PAPEL 40CM LEVE(5KG UN              19,00     44,10      44,10
+001816 BOBINA STG PAPEL 60CM LEVE(8KG UN               0,00     63,84      63,84
+002818 BOBINA VIRGEM DE ACOUGUE 30CM  KG             434,00     24,50      24,50
+002710 BOBINA VIRGEM P/ ACOUGUE 40CM  KG           1.089,00     20,59      20,59
+000576 BOM AR AIR WICK CHEIRO DE TALC UN              25,00     11,09      11,09
+000574 BOM AR AIR WICK FESCO CAMPO 36 UN               0,00     10,63      10,63
+001066 BOM AR AIR WICK LAVANDA 360ML  UN              29,00     11,09      11,09
+002657 BOM AR GLAIDE 360ML (12)       UN               0,00      7,22       7,22
+002847 BOMBOM GAROTO SORT 250GR       CX               0,00     10,79      10,79
+001229 BOMBOM SORT NESTLE C/251GR (30 CX               0,00     12,59      12,59
+000261 BRASILBERG LT (12)             LT               0,00     44,75      44,75
+002385 CAFE PILAO EXTRA FORTE 500GR ( PC               0,00     17,77      17,77
+002848 CAFE TRES CORA€OES EXT FORTE 2 PC               0,00     10,60      10,60
+000263 CAFE UNIAO EXTRA FORTE 500GR ( PC              17,00     19,59      19,59
+002792 CAIXAO LEVANTA DIFUNTO         UN              28,00     15,00      15,00
+002581 CAKEB RED 21 BRANCO 10X1       UN               3,00     25,37      25,37
+002582 CAKEB RED 21 OURO 10X1         UN               5,00     28,46      28,46
+002583 CAKEB RED 21 PRATA 10X1        UN               4,00     25,37      25,37
+002573 CAKEB RED 24 BRANCO 10X1       UN               3,00     26,49      26,49
+002564 CAKEB RED 24 OURO 10X1         UN               5,00     28,49      28,49
+002565 CAKEB RED 24 PRATA 10X1        PC               5,00     26,49      26,49
+002574 CAKEB RED 26 BRANCO 10X1       UN               5,00     31,36      31,36
+002566 CAKEB RED 26 OURO 10X1         PC              10,00     33,74      33,74
+002567 CAKEB RED 26 PRATA 10X1        UN              10,00     31,36      31,36
+002575 CAKEB RED 28 BRANCO 10X1       UN               4,00     34,24      34,24
+002561 CAKEB RED 28 OURO 10X1         PC               9,00     37,11      37,11
+002562 CAKEB RED 28 PRATA 10X1        UN               9,00     34,24      34,24
+002576 CAKEB RED 32 BRANCO 10X1       UN               0,00     42,48      42,48
+002568 CAKEB RED 32 OURO 10X1         UN               0,00     46,48      46,48
+002569 CAKEB RED 32 PRATA 10X1        UN               1,00     42,48      42,48
+002570 CAKEB RED 35 PRATA 10X1        UN               8,00     58,23      58,23
+002577 CAKEB RED 38 BRANCO 10X1       UN               3,00     67,97      67,97
+002571 CAKEB RED 38 OURO 10X1         UN               7,00     73,60      73,60
+002572 CAKEB RED 38 PRATA 10X1        UN              10,00     67,97      67,97
+002578 CAKEB RETANGULAR 35X20 BRANCO  PC               4,00     42,73      42,73
+002579 CAKEB RETANGULAR 35X20 OURO 10 UN               5,00     46,23      46,23
+002580 CAKEB RETANGULAR 35X20 PRATA 1 UN               4,00     42,73      42,73
+002563 CAKEB RETANGULAR 40X30 OURO 10 UN               0,00     50,97      50,97
+000266 CALDO CHEF CARNE KG (10)       PC               0,00     12,14      12,14
+000267 CALDO CHEF GALINHA KG (10)     PC               0,00     13,64      13,64
+002816 CALDO QUALIMAX CARNE  KG (10)  PC               4,00     13,37      13,37
+002817 CALDO QUALIMAX GALINHA KG (10) PC               0,00     13,37      13,37
+000272 CAMPARI 900ML (12)             LT              41,00     55,90      55,90
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 004
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001092 CANA AM PET 2LT                UN               0,00      8,00       8,00
+001268 CANA BR PET 2LT                UN               0,00      7,80       7,80
+001226 CANA GARRAFAO AM               GF               5,00     30,66      30,66
+000823 CANA GARRAFAO BR               GF              36,00     30,66      30,66
+002742 CANELA DU PRIMO 900ML (6)      PET              5,00     10,08      10,08
+000277 CANETA BIC CRISTAL AZUL C/50   CX              12,00     40,12      40,12
+000810 CANETA BIC CRISTAL PRETA C/50  CX              23,00     41,13      41,13
+000278 CANETA BIC CRISTAL VERMELHA C/ CX              61,00     41,82      41,82
+002663 CANUDO BIO PAPEL 19CM C/500 (6 CX             311,00     22,89      22,89
+002703 CANUDO BIO PAPEL 21CM C/250 (1 PC             430,00     12,22      12,22
+002664 CANUDO BIO PAPEL 25CM C/500 (6 CX              60,00     23,21      23,21
+002647 CANUDO PAPEL BIO BR 6X20MM C/1 PC             165,00      8,16       8,16
+002646 CANUDO PAPEL BIO COLORIDO 6X20 PC             168,00      4,08       4,08
+001867 CANUDO SACHE MEGASHAKE 10MM C/ PC               0,00      4,95       4,95
+001864 CANUDO SACHE P/DRINK NEON 6X18 PC               0,00      5,09       5,09
+002217 CANUDO SACHE P/DRINK PRETO 6X1 PC               0,00      4,75       4,75
+002856 CANUDO TRAD VERMELHO PP 21CM 6 PC               0,00     13,12      13,12
+002694 CASA & PERFUME AGRADABLE LT (1 UN              11,00      8,25       8,25
+002153 CASA & PERFUME SENSUALIDAD LT  UN               9,00      8,25       8,25
+002880 CASA FLOR LIMP PERF DESIRE LT  UN               7,00      7,24       7,24
+002534 CASA FLOR LIMP PERF INTUITIVE  UN              20,00      7,24       7,24
+001962 CATCHUP PREDILECTA 3,6KG (4)   GL               1,00     43,61      43,61
+002706 CATCHUP PREDILECTA SACHE 144X7 CX              22,00     16,06      16,06
+002732 CATCHUP PREDILETA 3,2KG RVC (4 GL               0,00     26,89      26,89
+002822 CATCHUP SUIT GALAO 3KG(6)      GL               0,00     11,20      11,20
+002820 CATCHUP SUIT SACHE 150X7GR     CX               0,00      8,12       8,12
+002263 CATUABA AMAZONIA 900ML(12)     PET             72,00     11,48      11,48
+002741 CATUABA DU PRIMO 900ML (6)     PET            576,00      7,87       7,87
+002350 CATUABA SELVAGEM MEL/LIMAO PET LT               0,00     10,90      10,90
+000043 CATUABA SELVAGEM PET 900ML (12 LT             563,00     11,89      11,89
+001611 CERA INGLESA MAX  TRAD INCOLOR UN               0,00     11,54      11,54
+002347 CERA INGLESA MAX  VERMELHA 750 UN               0,00     12,60      12,60
+002787 CERA LIMPA PISO UAU CERAMICA 7 UN              18,00      8,61       8,61
+002788 CERA LIMPA PISO UAU MADEIRA 75 UN              27,00      8,61       8,61
+001658 CERA LIQ BRILHO FACIL AMARELA  UN              25,00     13,58      13,58
+002800 CERA LIQ BRILHO FACIL ARDOSIA  UN              24,00     13,97      13,97
+001610 CERA LIQ BRILHO FACIL INCOLOR  UN              47,00     13,58      13,58
+002801 CERA LIQ BRILHO FACIL VERMELHA UN               9,00     13,58      13,58
+001159 CESTO P/ LIXO TELADA 10LT      UN              86,00      5,85       5,85
+000290 CESTO REDONDO C/ TAMPA 30 LT   UN              12,00     22,83      22,83
+001148 CESTO REDONDO C/ TAMPA 60 LT   UN               9,00     37,32      37,32
+001123 CESTO REDONDO C/ TAMPA/RODA 10 UN               6,00     96,94      96,94
+002617 CHICLE  BLUE MINT C/18 TABLETE CX               0,00     11,26      11,26
+000143 CHICLE ADAMïS HORT C/100       CX               0,00     23,15      23,15
+002622 CHICLE BUG HORTELA C/280G (93) UN               0,00      5,28       5,28
+002623 CHICLE BUG MORANGO C/280G (93) UN               0,00      5,28       5,28
+002624 CHICLE BUG TUTTI FUITT C/280G  UN               0,00      5,28       5,28
+002625 CHICLE BUG UVA C/280G (93)     UN               0,00      5,28       5,28
+002761 CHOPP VINHO PINK MOON 12X600ML DZ               0,00    108,36     108,36
+001146 CLORO M LAGOS 1LT (12)         UN             439,00      3,37       3,37
+000120 CLORO M LAGOS 2LT (6)          UN              84,00      6,38       6,38
+000047 CLORO M LAGOS 5LT (4)          GL              22,00     15,89      15,89
+002781 COLHER BRANCO REF STRAWP C/50( PC             359,00      3,60       3,60
+000296 COLHER CRISTAL REF STRAWP C/50 PC             304,00      3,60       3,60
+002587 COLHER LITTLE COFFEE PRAF 30X1 UN              15,00      4,14       4,14
+001555 COLHER LITTLE COFFEE PRAF C/20 PC               0,00      7,45       7,45
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 005
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002956 COLHER LITTLE COFFEE STRAWP 30 PC             539,00      4,51       4,51
+002292 COLHER MASTER BRANCO REF PRAF  PC               0,00      8,37       8,37
+002679 COLHER MASTER BRANCO STRAWP C/ PC             268,00      7,37       7,37
+001910 COLHER MASTER CRISTAL REF PRAF PC             143,00      8,37       8,37
+002795 COLHER SOBREM BRANCO STRAWP C/ PC             888,00      2,58       2,58
+001860 COLHER SOBREM COLORIDA PRAF C/ PC               0,00      7,98       7,98
+002678 COLHER SOBREM COLORIDA STRAWP  PC             174,00     14,79      14,79
+001861 COLHER SOBREM COLORIDA STRAWP  PC             212,00      2,73       2,73
+002824 COLHER SOBREM CRISTAL STRAWP C PC               0,00      2,58       2,58
+002052 COLORAU CHINEZINHO C/ 500GR (2 PC               0,00      7,42       7,42
+002028 COLORAU CHINEZINHO C/1KG (10)  PC               0,00     10,63      10,63
+002771 COLORAU FA INSTITUCIONAL KG    PC               0,00     13,72      13,72
+000298 CONHAQUE ALCATRAO SAO JOAO DA  LT             267,00     18,13      18,12
+002840 CONHAQUE DE MEL VELHO PITA E M LT               0,00      8,26       8,26
+000062 CONHAQUE DOMECQ 1000ML (12)    LT             436,00     45,89      45,89
+000001 CONHAQUE DREHER 960ML (12)     LT           1.083,00     21,79      21,79
+002352 CONHAQUE NAUTILUS 900ML (6)    UN               0,00      8,40       8,40
+000063 CONHAQUE PRESIDENTE 900ML (6)  LT           1.658,00     15,97      15,97
+000299 CONTINI BIANCO LT              LT              59,00     29,18      29,18
+000065 COPO AMERICANO VD NF2010 186ML CX             150,00     28,09      28,09
+000300 COPO AMERICANO VD NF2310 45ML  CX               4,00     51,02      51,02
+001303 COPO AMERICANO VD NF2710 300ML CX               4,00     95,27      95,27
+002116 COPO NF LONG DRINK 2601 264ML  CX              11,00     98,69      98,69
+002799 COPO NF LONG DRINK 7700 300ML  CX               0,00    122,51     122,51
+000761 COPO NF MUNICH 7109 6X1        CX               1,00     40,63      40,63
+002118 COPO NF PAULISTA VINHO 7402 15 CX               1,00     99,62      99,62
+002901 COPO NF WHISCK BAR VD 1800 C/2 CX               0,00     94,05      94,05
+002117 COPO NF WHISK GEOMETRIA 7526 C CX               5,00    179,53     179,53
+002119 COPO NF WHISK LAGUNA 280ML C/6 CX               2,00     11,36      11,36
+001625 COPO PLAST COPOBRAS 250ML C/20 PC              61,00      2,98       2,98
+001983 COPO PLAST COPOBRAS TRANSP 'PP CX              25,00    172,50     172,50
+001982 COPO PLAST COPOBRAS TRANSP 'PP PC              19,00      7,59       7,59
+000112 COPO PLAST COPOBRAS TRANSP 'PP CX              19,00    223,50     223,50
+000309 COPO PLAST COPOBRAS TRANSP 'PP PC              31,00     12,30      12,30
+001870 COPO PLAST COPOBRAS TRANSP 'PP CX               0,00    241,62     241,62
+001871 COPO PLAST COPOBRAS TRANSP 'PP PC               0,00     13,29      13,29
+001365 COPO PLAST COPOBRAS TRANSP 'PP CX               0,00    279,13     279,13
+001352 COPO PLAST COPOBRAS TRANSP 'PP PC               0,00     15,36      15,36
+000305 COPO PLAST CRISTALCOPO 150ML 2 CX               0,00     89,43      89,43
+000304 COPO PLAST CRISTALCOPO 150ML C PC              10,00      3,94       3,94
+002984 COPO PLAST CRISTALCOPO 180ML 2 CX               8,00    104,19     104,19
+002985 COPO PLAST CRISTALCOPO 180ML C PC              28,00      4,59       4,59
+002793 COPO PLAST CRISTALCOPO 200ML 2 CX             129,00    105,84     105,84
+002794 COPO PLAST CRISTALCOPO 200ML C PC             612,00      4,65       4,65
+002986 COPO PLAST CRISTALCOPO 250ML 2 CX              13,00    120,78     120,78
+002987 COPO PLAST CRISTALCOPO 250ML C PC              40,00      6,64       6,64
+001626 COPO PLAST CRISTALCOPO 300ML 2 CX              89,00    142,88     142,88
+001464 COPO PLAST CRISTALCOPO 300ML C PC              53,00      6,29       6,29
+002962 COPO PLAST CRISTALCOPO 400ML 2 CX               5,00    168,71     168,71
+002963 COPO PLAST CRISTALCOPO 400ML C PC              38,00      9,28       9,28
+001463 COPO PLAST CRISTALCOPO 50ML 50 CX              15,00    100,32     100,32
+001425 COPO PLAST CRISTALCOPO 50ML C/ PC              39,00      2,20       2,20
+002982 COPO PLAST CRISTALCOPO 80ML 25 CX               1,00     93,93      93,93
+002983 COPO PLAST CRISTALCOPO 80ML C/ PC              25,00      4,14       4,14
+002970 COPO PLAST IBRAS 200ML 25X100  CX              58,00     99,40      99,40
+002971 COPO PLAST IBRAS 200ML C/100   PC              56,00      4,38       4,38
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 006
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002190 COPO PLAST TOTALPLAST 150ML 25 CX               0,00    104,44     104,44
+002191 COPO PLAST TOTALPLAST 150ML C/ UN               7,00      4,85       4,85
+002878 COPO PLAST TOTALPLAST 180ML 25 CX               0,00    111,57     111,57
+002879 COPO PLAST TOTALPLAST 180ML C/ PC               0,00      4,91       4,91
+002915 COPO PLAST TOTALPLAST 200ML 25 CX               0,00    112,71     112,71
+002778 COPO PLAST TOTALPLAST 200ML C/ PC               0,00      4,96       4,96
+001921 COPO PLAST TOTALPLAST 300ML 20 CX              44,00    149,60     149,60
+001922 COPO PLAST TOTALPLAST 300ML C/ PC              52,00      8,98       8,98
+002220 COPO PLAST TOTALPLAST 400ML 20 CX               0,00    158,37     158,37
+002221 COPO PLAST TOTALPLAST 400ML C/ PC               0,00      9,50       9,50
+001970 COPO PLAST TOTALPLAST 500ML 20 CX              39,00    170,95     170,95
+001971 COPO PLAST TOTALPLAST 500ML C/ PC              15,00     10,26      10,26
+001917 COPO PLAST TOTALPLAST 50ML 50X CX              26,00    113,97     113,97
+001918 COPO PLAST TOTALPLAST 50ML C/1 PC             212,00      2,74       2,74
+001924 COPO PREMIUM TOTALPLAST 250ML  PC              40,00      3,75       3,75
+001926 COPO PREMIUM TOTALPLAST 300ML  PC               8,00      3,75       3,75
+002809 COPO TERMICO TPLAST 240ML 50X2 CX               3,00    216,26     216,26
+002916 COPO TERMICO TPLAST 240ML C/20 PC              96,00      4,76       4,76
+002811 COPO TERMICO TPLAST 300ML 50X2 CX              22,00    234,78     234,78
+002917 COPO TERMICO TPLAST 300ML C/20 PC              17,00      5,17       5,17
+001945 COQUETEL MARULA SAHARA 830ML ( UN               0,00     19,90      19,90
+002877 COQUINHO DO NORTE              LT               0,00      9,00       9,00
+001731 CORDA VARAL PLAST N-10 C/6     PC              14,00     26,77      26,77
+001228 CREME DENTAL COLGATE 90G C/12  DZ              19,00     52,92      52,92
+001708 CRIOLINA MAZOCRESOL 750ML (24) UN               0,00      6,99       6,99
+002417 CUMBUCA ISOP TOTALPLAST 300ML  FD              38,00     25,31      25,31
+002537 DESENGORDURANTE AZULIM SQUEEZE UN               0,00      3,60       3,60
+001786 DESENTUPIDOR DE PIA BORRACHA   UN              15,00      8,40       8,40
+001788 DESENTUPIDOR SANIT GRANDE CB M UN              14,00     14,42      14,42
+000790 DESENTUPIDOR SANITARIO ROSSI   UN               0,00      7,07       7,07
+001670 DESINFETANTE AGIPRO CLEENE CAM GL              81,00     11,16      11,16
+002854 DESINFETANTE AGIPRO CLEENE EUC GL               3,00     11,16      11,16
+002436 DESINFETANTE AGIPRO CLEENE FLO UN               1,00     11,16      11,16
+002033 DESINFETANTE AGIPRO CLEENE LAV GL               0,00     11,16      11,16
+002684 DESINFETANTE AGIPRO CLEENE PIN GL              26,00     11,16      11,16
+002936 DESINFETANTE AGIPRO CLEENE TAL GL              25,00     11,16      11,16
+001280 DESINFETANTE M LAGOS EUC EXTRA UN               0,00      2,28       2,28
+001279 DESINFETANTE M LAGOS EUCALIPTO UN              34,00      4,87       4,87
+001107 DESINFETANTE M LAGOS EUCALIPTO UN               0,00      2,28       2,28
+000116 DESINFETANTE M LAGOS EUCALIPTO GL              16,00     12,22      12,22
+000318 DESINFETANTE M LAGOS FLORAL 2L UN              27,00      4,87       4,87
+001103 DESINFETANTE M LAGOS FLORAL 50 UN              32,00      2,28       2,28
+000319 DESINFETANTE M LAGOS FLORAL 5L GL              22,00     12,22      12,22
+001105 DESINFETANTE M LAGOS JASMIN 50 UN              58,00      2,28       2,28
+000320 DESINFETANTE M LAGOS JASMIN 5L GL              40,00     12,22      12,22
+000321 DESINFETANTE M LAGOS LAVANDA 2 UN              12,00      4,87       4,87
+001104 DESINFETANTE M LAGOS LAVANDA 5 UN               7,00      2,28       2,28
+000322 DESINFETANTE M LAGOS LAVANDA 5 GL              15,00     12,22      12,22
+000324 DESINFETANTE M LAGOS PINHO  2L UN               6,00      4,87       4,87
+002323 DESINFETANTE M LAGOS PINHO 500 UN              84,00      2,28       2,28
+002115 DESINFETANTE M LAGOS PINHO 5LT UN              37,00     12,22      12,22
+001357 DESINFETANTE M LAGOS PINHO EXT UN               0,00      2,28       2,28
+001696 DESINFETANTE M LAGOS PINHO GEL UN               0,00      5,33       5,33
+000326 DESINFETANTE M LAGOS PINHO GEL UN               5,00     18,48      18,48
+000325 DESINFETANTE M LAGOS PINHO GEL GL               0,00     40,03      40,03
+002707 DESINFETANTE PATO P GERM AZ 75 UN              13,00      9,97       9,97
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 007
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002849 DESINFETANTE UFENOL LT(12)     PET             29,00      9,44       9,44
+002700 DETERGENTE AGICOOK P/ MAQ LAVA GL               2,00     49,70      49,70
+002681 DETERGENTE AGIPRO CLEENE NEUTR GL               0,00     11,73      11,73
+002750 DETERGENTE LIQ LIMPOL COCO 500 UN               0,00      2,99       2,99
+002390 DETERGENTE LIQ LIMPOL CRISTAL  UN               0,00      2,76       2,76
+000715 DETERGENTE LIQ LIMPOL LIMAO 50 UN               0,00      2,99       2,99
+002451 DETERGENTE LIQ LIMPOL MACA 500 UN               0,00      2,99       2,99
+002337 DETERGENTE LIQ LIMPOL NEUTRO 5 UN               3,00      2,76       2,76
+001093 DETERGENTE LIQ M LAGOS NEUTRO  UN               0,00      1,43       1,43
+000331 DETERGENTE LIQ M LAGOS NEUTRO  GL              61,00     17,49      17,49
+002768 DETERGENTE LIQ MINUANO CLEAR 5 UN               2,00      2,49       2,49
+002767 DETERGENTE LIQ MINUANO COCO 50 UN               0,00      2,56       2,56
+002751 DETERGENTE LIQ MINUANO LIMAO 5 UN               0,00      2,49       2,49
+002769 DETERGENTE LIQ MINUANO MACA 50 UN               0,00      2,10       2,10
+002391 DETERGENTE LIQ MINUANO NEUTRO  UN               3,00      2,49       2,49
+002714 DETERGENTE LIQ VITRAL MACA 500 UN               4,00      1,67       1,67
+002589 DETERGENTE LIQ VITRAL NEUTRO 5 UN             995,00      1,67       1,67
+000713 DETERGENTE LIQ YPE CLEAR 500ML UN               0,00      2,51       2,51
+001175 DETERGENTE LIQ YPE COCO  500ML UN               0,00      2,51       2,51
+000714 DETERGENTE LIQ YPE LIMAO 500ML UN               1,00      2,51       2,51
+001768 DETERGENTE LIQ YPE MA€A 500ML  UN               0,00      1,99       1,99
+000330 DETERGENTE LIQ YPE NEUTRO 500M UN               0,00      2,51       2,51
+002134 DISCO ISOP TOTAL PLAST 15CM C/ FD              26,00     29,11      29,11
+002168 DISCO ISOP TOTAL PLAST 18CM C/ FD              10,00     42,77      42,77
+001813 DISCO ISOP TOTAL PLAST 20CM C/ PC              11,00     58,13      58,13
+002166 DISCO ISOP TOTAL PLAST 25CM C/ FD               3,00     99,36      99,36
+002167 DISCO ISOP TOTAL PLAST 30CM C/ FD              38,00    110,96     110,96
+002169 DISCO ISOP TOTAL PLAST 35CM C/ FD              13,00    170,35     170,35
+001905 DISCO TACOGRAFO 7 DIAS 20X20   PC              80,00     24,88      24,88
+002832 DISPENSER COPO 150/200ML BOTAO UN              21,00     36,70      36,70
+001374 DISPENSER COPO 200ML BOTAO NOB UN               0,00     36,70      36,70
+000538 DISPENSER COPO 50ML DE BOTAO N UN              12,00     28,17      28,17
+001697 DISPENSER NOBRE P/ PAPEL HIG C UN              15,00     15,07      15,07
+000333 DISPENSER PLAST P/ FORRO SANIT UN              17,00     17,79      17,79
+002934 DOCE AMENDOIN GIBI CASEIRAO ST PCT              6,00     30,33      30,33
+002842 DOCE AMENDOIN GIBI STA HELENA  PCT             11,00     28,27      28,27
+000134 DROPS HALL'S CEREJA 21X28G     CX               1,00     26,50      26,50
+000135 DROPS HALL'S EXTRA FORTE 21X28 CX               0,00     26,50      26,50
+000136 DROPS HALL'S MELANCIA C/21     CX               0,00     16,97      16,97
+000113 DROPS HALL'S MENTA 21X28G      CX               3,00     26,50      26,50
+000138 DROPS HALL'S MENTHOL LYPTUS C2 CX               0,00     16,97      16,97
+000335 DROPS HALL'S MORANGO C/21      CX               0,00     16,97      16,97
+000137 DROPS HALL'S UVA VERDE 21X28G  CX               8,00     26,50      26,50
+002946 ELASTICO AMARELO MERCUR C/2200 PC               9,00     96,87      96,87
+002954 EMBALAGEM 2 DOCES ARTICULADA S UN              20,00     29,06      29,06
+002953 EMBALAGEM 4 DOCES ARTICULADA S CX              15,00     63,92      63,92
+002494 EMBALAGEM CUMBUCA ARTICULADA S CX              78,00     68,31      68,31
+002503 EMBALAGEM DELI 1000ML S94C C/2 CX              29,00    159,50     159,50
+002500 EMBALAGEM DELI 500ML S90C C/20 CX              48,00    100,76     100,76
+002502 EMBALAGEM DELI 750ML S92C C/20 CX              32,00    157,28     157,28
+002498 EMBALAGEM DELI ARTIC 250ML S88 CX              29,00     70,08      70,08
+002495 EMBALAGEM DOCE QUAD ARTIC S641 CX             118,00     61,79      61,79
+002493 EMBALAGEM DOCE RED C/TP S640C  CX             185,00     81,91      81,91
+002925 EMBALAGEM FATIA BOLO P630 C/ T CX               8,00     56,37      56,37
+002310 EMBALAGEM FATIA TORTA S630  C/ CX              47,00     38,81      38,81
+002926 EMBALAGEM MINI DOCE RED C/TP P CX              10,00     57,74      57,74
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 008
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002496 EMBALAGEM MINI DOCE RED S642C  CX              95,00     65,42      65,42
+002506 EMBALAGEM POTE RED/ART 250ML S CX               1,00     85,29      85,29
+002722 EMBALAGEM POTE RED/ART 450ML S PC               7,00     78,55      78,55
+002673 EMBALAGEM RET  GR ALTA S20C AR CX              33,00     73,84      73,84
+002315 EMBALAGEM RET GR BX S18C  ART  CX              31,00     73,84      73,84
+002314 EMBALAGEM RET L BOX P10 ART C/ CX               0,00     41,43      41,43
+002955 EMBALAGEM RETG ARTICULADA S10C CX              36,00     28,18      28,18
+002316 EMBALAGEM SF300 P/ MORANGO C/4 PC               0,00     31,60      31,60
+002499 EMBALAGEM TORTA JUMBO PRT S80P CX              35,00     82,78      82,78
+001725 EMBALAGEM TORTA MED/ALTA P56(5 CX               1,00    123,34     123,34
+002935 EMBALAGEM TORTA P50 MD PEQ C/5 CX              29,00     81,59      81,59
+002344 EMBALAGEM TORTA RET GR/BR S70B CX              29,00    151,65     151,65
+002492 EMBALAGEM TORTA RET GR/PRT S70 CX              85,00    144,05     144,05
+002550 EMBALAGEM TORTA RETANGULAR S63 CX              46,00    103,46     103,46
+002501 EMBALAGEM TORTA RETG PEQ PRT S CX              18,00     99,00      99,00
+002535 EMBALAGEM TORTA S32 BRA BR ALT CX              26,00     82,60      82,60
+002490 EMBALAGEM TORTA S32 BRBA BAIXA CX              77,00     58,65      58,65
+002311 EMBALAGEM TORTA S32 BRM MEDIA  CX             133,00     62,10      62,10
+002551 EMBALAGEM TORTA S40 BRBA C/100 CX              17,00    129,57     129,57
+002312 EMBALAGEM TORTA S50 BRM PEQ C/ CX              28,00     80,43      80,43
+002831 EMBALAGEM TORTA S56 BRA ALTA C CX              28,00     97,73      97,73
+002802 EMBALAGEM TORTA S60 BRA ALTA C CX              12,00    151,16     151,16
+002491 EMBALAGEM TORTA S60 BRM MEDIA  CX              20,00    147,60     147,60
+000788 ENERG RED HOT MACA VERDE 473ML FD              37,00     29,50      29,50
+000693 ENERG RED HOT MELANCIA 473ML C FD              34,00     29,50      29,50
+000518 ENERG RED HOT SUGAR FREE 473ML FD              19,00     29,50      29,50
+002782 ENERG RED HOT TRAD 473ML C/6(1 FD              19,00     29,50      29,50
+000179 ENERG RED HOT TROPICAL 473ML C FD              22,00     29,50      29,50
+001173 ESCOVA OVAL MAD CONDOR (12)    UN             149,00      2,66       2,66
+002855 ESCOVA OVAL MAD ROSSI(12)      UN               6,00      4,69       4,69
+000596 ESPALHADOR DE CERA C/ CABO ROS UN               1,00      7,12       7,12
+001699 ESPANADOR PENA 32CM            UN              39,00     16,90      16,90
+001698 ESPANADOR PENA 65CM            UN              19,00     24,28      24,28
+001114 ESPANADOR PENA N§25 EXTRA ROSS UN               0,00     19,95      19,95
+001935 ESPETO DE BAMBU 25CM C/50 (25) PC             752,00      3,65       3,65
+002196 ESPETO DE BAMBU 30CM C/50 (25) PC             490,00      3,93       3,93
+001930 ESPONJA ACO INOX FLASH LIMP(60 UN               0,00      2,97       2,97
+002635 ESPONJA ACO INOX LIMPANO (24)  UN               0,00      4,68       4,68
+001990 ESPONJA ADORADA OURO LIMPANO   UN               0,00      4,62       4,62
+001167 ESPONJA DUPLA FACE BRILHUS C/4 PC               0,00      3,02       3,02
+002640 ESPONJA DUPLA FACE WISH C/3(60 PC               0,00      1,57       1,57
+001168 ESPONJA LIMPANO RAYUM MULTI-US UN             166,00      2,11       2,11
+002961 ESPONJA LIMPANO WISH C/4(60)   UN              90,00      2,34       2,34
+000348 ESSENCIA EUCALIPTO 140ML (10)  UN              44,00      8,16       8,16
+001129 ESSENCIA FLORAL 140ML (12)     UN              54,00      8,16       8,16
+000350 ESSENCIA JASMIM 140ML (10)     UN              11,00      8,16       8,16
+000349 ESSENCIA LAVANDA 140ML (10)    UN              68,00      8,16       8,16
+002942 ESSENCIA LIMAO 140ML (10)      UN              17,00      8,16       8,16
+000352 EXTRATO TOMATE ELEFANE 850G (1 LT              64,00     11,80      11,80
+001653 FACA MASTER BRANCO REF PRAF C/ PC               0,00      8,37       8,37
+002725 FACA MASTER BRANCO REF STRAWP  PC             176,00      7,15       7,15
+000367 FACA MASTER CRISTAL REF PRAF C PC               0,00      8,37       8,37
+002291 FACA MASTER CRISTAL REF STRAWP PC              20,00      6,89       6,89
+001278 FACA REF CRISTAL PRAFESTA C/50 PC               0,00      3,34       3,34
+002857 FACA REF CRISTAL STRAWPLAST 20 PC             213,00      3,21       3,21
+002945 FECHO PLASTICO 1KG             PC              44,00     30,10      30,10
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 009
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+000354 FERNETE THOQUINO 960ML (6)     UN             563,00     16,93      16,93
+002178 FIBRA DE LIMPEZA PESADA BETTAN UN               0,00      2,19       2,19
+002179 FIBRA DE LIMPEZA USO GERAL BET UN              10,00      1,89       1,89
+001849 FILME PVC 28X100MT (25)        UN             321,00     11,21      11,21
+001847 FILME PVC 28X300MT (12)        UN             145,00     25,62      25,62
+001848 FILME PVC 28X30MT (25)         UN             621,00      4,51       4,51
+001853 FILME PVC AMARELO LEVE 30X400X UN              30,00     37,80      37,80
+001852 FILME PVC AMARELO LEVE 40X400X UN             120,00     51,74      51,74
+001855 FILME PVC AMARELO LEVE 60X400X UN               4,00     75,40      75,40
+001850 FILME PVC AMARELO PESADO 40X80 UN             112,00    102,26     102,26
+002899 FILME PVC AZUL LEVE 30X400X11  UN              42,00     37,80      37,80
+001851 FILME PVC AZUL PESADO 40X800X1 UN              55,00    102,26     102,26
+000356 FILTRO CAFE MELITTA 102 C/30   CX              43,00      3,67       3,67
+000357 FILTRO CAFE MELITTA 103 C/30   CX              28,00      4,00       4,00
+000358 FITA DUREX 18MMX50MT TRANSP C/ PC              16,00     29,57      29,57
+002396 FITA P/ EMPACOTAR MARRON AC 48 PC              25,00     27,58      27,58
+002864 FITA P/ EMPACOTAR TRANSP 48X50 PC              92,00     28,45      28,45
+000361 FLANELA COLONIAL N§3 38X58 (12 UN           1.579,00      2,81       2,81
+000362 FOGO PAULISTA DUBAR 960ML (12) LT              59,00     30,69      30,69
+001969 FORMA ALUMINIO P/ BOLO INGLES  CX               2,00     44,31      44,31
+002150 FORMA PIZZA MELLO 20CM C/100   CX              13,00     85,98      85,98
+002151 FORMA PIZZA MELLO 25CM C/100   CX              18,00    118,91     118,91
+002924 FORMA PIZZA MELLO 30 S/TAMPA C CX               5,00    120,44     120,44
+002148 FORMA PIZZA MELLO 30CM C/100   CX              13,00    172,28     172,28
+002149 FORMA PIZZA MELLO 35CM C/100   CX               0,00    220,29     220,29
+002147 FORMA PIZZA MELLO VAZADA 30CM  CX              29,00    169,90     169,90
+001885 FORMINHA DE PAPEL BR N.0 10X10 PC               3,00     23,49      23,49
+002779 FORMINHA DE PAPEL BR N.1 10X10 PC              40,00     15,37      15,37
+001887 FORMINHA DE PAPEL BR N.2 10X10 PC             136,00     13,63      13,63
+001888 FORMINHA DE PAPEL BR N.3 10X10 PC             134,00     11,02      11,02
+001889 FORMINHA DE PAPEL BR N.4 10X10 PC              53,00     10,88      10,88
+001890 FORMINHA DE PAPEL BR N.5 10X10 PC             240,00      9,13       9,13
+001891 FORMINHA DE PAPEL BR N.6 10X10 PC               0,00      8,27       8,27
+002049 FORMULARIO 80 COL. RASAO 2 VIA CX               1,00    280,39     280,39
+000563 FORRA FOGAO MELLO C/12 (50)    PC             114,00      3,16       3,16
+001894 FOSFORO ARGOS C/10             MC              95,00      4,31       4,31
+000772 FOSFORO ARGOS C/20X10          FD             174,00     78,51      78,51
+002829 FRANGUEIRA ISOP TOTAL PLAST C/ CX               0,00    101,01     101,01
+002680 GARFO BRANCO REF STRAWPLAST C/ PC             107,00      3,60       3,60
+002796 GARFO CRISTAL REF  STRAWPLAST  PC             450,00      3,60       3,60
+001556 GARFO CRISTAL REF PRAFESTA C/5 PC               0,00      4,14       4,14
+002285 GARFO MASTER BRANCO REF STRAWP PC             242,00      6,90       6,90
+000368 GARFO MASTER CRISTAL REF PRAF  PC               0,00      8,37       8,37
+001112 GARFO SOBREM BRANCO PRAF C/50  PC               0,00      2,93       2,93
+001652 GARFO SOBREM BRANCO STRAWP C/5 PC             416,00      2,58       2,58
+002797 GARFO SOBREM CRISTAL PRAF C/50 UN              14,00      2,88       2,88
+002288 GARFO SOBREM CRISTAL STRAWP C/ PC             414,00      2,58       2,58
+001819 GARRAFA TERMICA MOR PR/VER/BEG UN              85,00     23,88      23,88
+001121 GARRAFA TERMICA PRESSAO ALADIM UN               0,00     39,34      39,34
+001110 GARRAFA TERMICA PRESSAO INVICT UN              12,00     47,75      47,75
+001580 GARRAFAO TERMICO ANTARES 5LT ( UN              30,00     31,23      31,23
+001617 GARRAFAO TERMICO OBA 12LT (2)  UN               5,00    102,65     102,65
+000002 GENEBRA DUBAR 960ML (12)       LT              53,00     32,63      32,63
+000371 GIN DUBAR 960 ML(12)           UN               0,00     24,02      24,02
+002639 GIN GILBEYS 700ML(12)          UND              0,00     35,77      35,77
+002861 GIN TUDO LT                    LT               2,00     26,18      26,18
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 010
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002862 GOSTOGIN TONICA 269ML C/6      LT               0,00     28,39      28,39
+002432 GRAMPO 26/6 C/5000 TRIS        CX             296,00      4,70       4,70
+002092 GUARA CRAC ACAI 290ML C/24     CX               0,00     22,39      22,39
+002828 GUARA CRAC A€AI PET 450ML(12)  FD               0,00     23,43      23,43
+002091 GUARA CRAC GUARANA 290ML C/24  CX               0,00     22,39      22,39
+002827 GUARA CRAC GUARANA PET 450ML(1 FD               0,00     23,43      23,43
+002785 GUARA CRAC LARANJA PET 450ML(1 FD               0,00     23,43      23,43
+002786 GUARA CRAC LIMONADA PET 450ML( FD               0,00     23,43      23,43
+002868 GUARA CRAC UVA PET 450ML(12)   FD               0,00     23,43      23,43
+002457 GUARDANAPO BRASIPEL 14X14 C/10 FD              34,00    127,75     127,75
+002895 GUARDANAPO BRASIPEL 14X14 C/20 PC             609,00     14,06      14,06
+002938 GUARDANAPO BRASIPEL CREPADO 18 FD               4,00     98,98      98,98
+000386 GUARDANAPO BRASIPEL CREPADO 18 PC               9,00     36,29      36,29
+002897 GUARDANAPO BRASIPEL CREPADO 28 FD              17,00    107,63     107,63
+000387 GUARDANAPO LIMPA QUEIXO C/5KG  PC              17,00     84,00      84,00
+001869 GUARDANAPO MASTERPEL CREPADO 2 CX               0,00    109,79     109,79
+002466 GUARDANAPO MASTERPEL CREPADO 3 CX               2,00    139,51     139,51
+001906 GUARDANAPO MASTERPEL SEDA C/20 CX               0,00     84,64      84,64
+002850 GUARDANAPO MASTERPEL SEDA14X14 FD               0,00     71,40      71,40
+002021 GUARDANAPO MASTERPEL SEDA14X14 PC               0,00     14,48      14,48
+002553 HAMBURG ISOP T PLAST TH04 HOT  FD              11,00     63,03      63,03
+002808 HAMBURG ISOP T PLAST TH200 3 D FD              20,00     90,58      90,58
+002074 HAMBURGUEIRA ISOP T PLAST TH01 FD              42,00     52,42      52,42
+002136 HAMBURGUEIRA ISOP T PLAST TH02 FD               0,00     64,44      64,44
+002137 HAMBURGUEIRA ISOP T PLAST TH03 FD               0,00     79,98      79,98
+002135 HAMBURGUEIRA ISOP T PLAST TH10 FD               1,00     89,45      89,45
+002804 HAMBURGUEIRA ISOP T PLAST TH20 FD               0,00     85,64      85,64
+002826 HAMBURGUEIRA ISOP T PLAST TH20 FD               6,00     94,98      94,98
+002846 HAMBURGUEIRA ISOP T PLAST TH20 FD               9,00     85,43      85,43
+002702 HASHI DE BAMBU 21CM C/10 PARES PC             193,00      2,58       2,58
+001936 HASHI DE BAMBU 21CM C/40 PARES PC               4,00      8,12       8,12
+001176 HIPOCLORITO DE SODIO M LAGOS 5 GL               6,00     31,57      31,57
+002932 ICE KOVAK VD GREEN APPLE 275ML FD               0,00     25,12      25,12
+002931 ICE KOVAK VD LIMAO 275ML C/6(2 FD             110,00     25,12      25,12
+002933 ICE KOVAK VD MARACUJA 275ML C/ FD               0,00     25,12      25,12
+002851 ICE SYN LEMON PET 300ML C/6(24 PC               0,00     14,36      14,36
+000147 ICE SYN PINK LEMONAD PET 300ML PC               0,00     14,36      14,36
+000673 ING DESENG TECH 5 EM 1 500ML ( UN              10,00      6,31       6,31
+001613 INGLESA CLORO ATIVO SQUEEZE 50 UN               0,00      5,33       5,33
+001659 INGLESA DESENGORD COZ LIMAO 50 UN               0,00      5,12       5,12
+001660 INGLESA LIMPA FORNO UAU 200ML  UN               0,00      5,35       5,35
+002549 INGLESA LIMPEZA PESADA CLORO 5 UN               0,00      5,32       5,32
+001615 INGLESA LUSTRA MOVEIS LAV 200M UN               0,00      3,89       3,89
+002648 INGLESA MULT USO ACAO CLAREADO UN              30,00      3,49       3,49
+002712 INGLESA UAU PERFUME BRISA E FR LT               0,00      5,10       5,10
+002711 INGLESA UAU PERFUME FLOR VERM  LT               0,00      5,10       5,10
+001614 INGLESA UAU PERFUME LAV E CONF LT               0,00      5,10       5,10
+001416 INSETICIDA ESPIRAL BOA NOITE C PC               0,00      2,77       2,77
+002161 INSETICIDA FORT AERO CITRONELA UN               0,00      7,70       7,70
+001330 INSETICIDA FORT AERO MULT 300M UN               0,00      6,34       6,34
+002172 INSETICIDA FORT AERO MULT 450M UN               0,00      7,19       7,19
+000390 INSETICIDA MAT INSET AREO CITR UN               0,00      6,92       6,92
+001246 INSETICIDA MAT INSET AREO MULT UN               0,00      6,92       6,92
+001674 INSETICIDA MORTEIN ISCA MATA B CX               0,00     14,22      14,22
+000391 INSETICIDA SBP AERO MULT CITRO PC              54,00     14,17      14,17
+002039 INSETICIDA SBP MULTINSETICIDA  UN              12,00     14,17      14,17
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 011
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002197 INSETICIDA STRAIK AERO MULT 40 UN               0,00      7,69       7,69
+002209 INSETICIDA STRAIK GEL MATA FOR UN               0,00     12,31      12,31
+002198 INSETICIDA STRAIK ISCA MATA RA UN               0,00     54,88      54,88
+000182 ISQUEIRO BIC MAX C/12 (22)     CT               0,00     57,67      57,67
+001881 ISQUEIRO ELETRONICO GR FLEX LI CT               6,00     25,00      25,00
+001882 ISQUEIRO ELETRONICO MINI FLEX  CT               0,00     18,00      18,00
+000153 ISQUEIRO MINI BIC C/12 (22)    CT               0,00     43,29      43,29
+000171 JURUBEBA LEAO DO NORTE 600ML ( GF             437,00     15,22      15,22
+002698 KIT 2 ISQ/ 1 AP BIC AQUA 3 12X KIT              0,00     81,90      81,90
+002660 KIT CHURRASCO BRANCO PRAF C/10 PC              13,00     15,53      15,53
+002665 KIT CHURRASCO BRANCO STRAWPLAS PC              10,00     13,50      13,50
+002661 KIT CHURRASCO CRISTAL PRAF C/1 UN               7,00     15,53      15,53
+001194 LA DE ACO BOMBRIL 14X4         FD             113,00     36,29      36,29
+001196 LA DE ACO BOMBRIL 1X4          PC             134,00      2,90       2,90
+002697 LA DE ACO BOMBRIL 1X8          PC               1,00      3,33       3,33
+001695 LA DE ACO Q LUSTROS 14X4       FD               0,00     14,63      14,63
+001766 LAMINA INOX WILKINSON 20X3 (24 CT              59,00     25,71      25,71
+000395 LEITE MACUCO DESNATADO LT (12) UN               0,00      3,88       3,88
+000394 LEITE MACUCO INTEGRAL LT (12)  UN               0,00      5,13       5,13
+002737 LENCO PAPEL FAC KISS 7X50      CX               0,00      3,25       3,25
+000396 LENCOL HOSPITALAR EXT. LUXO 50 CX               8,00     78,33      78,33
+000397 LENCOL HOSPITALAR EXT. LUXO 70 CX               4,00     99,88      99,88
+002790 LEVANTA DIFUNTO 900ML(12)      PET              0,00     11,14      11,14
+002867 LICOR CACAU DU PRIMO           UN               0,00     10,80      10,80
+000399 LICOR DE CACAU ADONIS 970ML (1 UN               0,00      7,70       7,70
+002024 LICOR DE MENTA ADONIS LT S/C ( LT               0,00      7,70       7,70
+002807 LIMP VID VIDREX LIMPOL SQUEEZE UN               2,00      3,95       3,95
+001859 LIMPA PISO M LAGOS LT (12)     UN              62,00      4,69       4,69
+002584 LIMPADOR LIMPOL MULT USO TRAD  UN               0,00      3,92       3,92
+001612 LIMPADOR MULT USO TUDO TRAD 50 UN              98,00      3,50       3,50
+002613 LIMPADOR YPE MULT USO TRAD 500 UN               0,00      3,88       3,88
+002845 LITRO VAZIO                    UN             333,00      1,00       1,00
+001113 LIXEIRA PLASTICA C/ PEDAL 12LT UN              41,00     23,63      23,63
+001118 LIXEIRA PLASTICA C/ PEDAL 21LT UN              57,00     39,65      39,65
+002806 LUSTRA MOVEIS KING P CAMPO LAV UN               8,00     11,79      11,79
+000406 LUSTRA MOVEIS POLIFLOR LAVANDA UN               9,00     22,39      22,39
+000407 LUVA LATEX FORRADA (G) PAR     PC              91,00      4,23       4,23
+000117 LUVA LATEX FORRADA (M) PAR     PC              69,00      4,23       4,23
+000408 LUVA LATEX FORRADA (P) PAR     PC              86,00      4,23       4,23
+000118 LUVA POLIETILENO DESCART CRIST PC           5.030,00      1,41       1,41
+001822 LUVA PROCEDIMENTO DESCARPACK C CX               0,00     23,00      23,00
+001820 LUVA PROCEDIMENTO DESCARPACK C CX               0,00     23,00      23,00
+001821 LUVA PROCEDIMENTO DESCARPACK C CX               0,00     23,00      23,00
+001727 LUVA PROCEDIMENTO DESCARTAVEL  CX               0,00     36,54      36,54
+002195 LUVA PROCEDIMENTO DESCARTAVEL  CX               0,00     67,68      67,68
+002410 LUVA PROCEDIMENTO VOLK M C/100 CX               0,00     23,80      23,80
+002411 LUVA PROCEDIMENTO VOLK P C/100 CX               0,00     23,80      23,80
+000409 MACARRAO ESPAGUETE AMALIA SEM  PC               0,00      3,57       3,57
+001140 MACARRAO INST AMALIA CARNE 50X CX               0,00     63,00      63,00
+001139 MACARRAO INST AMALIA GALINHA C CX               0,00     70,18      70,18
+001491 MACARRAO NINHO AMALIA N-3 SEM  PC               0,00      3,37       3,37
+001138 MACARRAO PADRE NOSSO AMALIA SE PC               0,00      2,65       2,65
+000412 MACARRAO PARAFUSO AMALIA SEM 5 PC               0,00      2,65       2,65
+002538 MAIONESE DMAIS BAG C/2,5KG (6) UN               0,00      8,00       8,00
+001986 MAIONESE DMAIS SACHE 156X6GR   CX               0,00      5,56       5,56
+002539 MAIONESE HELLMANNS BAG 1KG (12 UN               0,00     11,05      11,05
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 012
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+000415 MAIONESE MARIANA C/3KG (6)     BD               1,00     35,60      35,60
+002050 MAIONESE PREDILECTA SACHE 144X CX               0,00     16,34      16,34
+002752 MAIONESE QUERO BAG C/1KG (12)  BG               0,00      5,96       5,96
+002762 MARGARINA QUALY 500GR (12)     UN               0,00      7,20       7,20
+002766 MEL DU PRIMO 900ML (6)         PET             27,00      8,51       8,51
+002160 MELFORT COMARY HONEY LT(12)    PET            977,00     13,02      13,02
+002743 MENTA DU PRIMO 900ML (6)       PET              0,00     10,08      10,08
+000420 MEXEDOR  CAFE PRAF CRISTAL C/2 PC             103,00      4,47       4,47
+002912 MEXEDOR CAFE STRAWPLAST C/500( PC             284,00      8,86       8,86
+001152 MEXEDOR DRINK STRAWPLAST C/240 PC             153,00      9,63       9,63
+001743 MOLHO TOM FUGINI TRAD SACHE 30 UN               0,00      1,36       1,36
+002375 MOP SPIN BRILHUS BALDE 9LT     UN               0,00     84,43      84,43
+002051 MOSTARDA PREDILECTA SACHE 144X CX               3,00     18,83      18,83
+002823 MOSTARDA SUIT GALAO 3KG (6)    GL               0,00     11,20      11,20
+002821 MOSTARDA SUIT SACHE 150X7GR    UN               1,00      8,12       8,12
+002693 MULT USO CAMPESTRE AGIFACIL 50 UN               0,00      2,98       2,98
+002692 MULT USO TRADICIONAL AGIFACIL  UN               0,00      2,98       2,98
+001912 NAFTALINA SANILAR  BOLAS PACOT PC             159,00      2,60       2,60
+001161 OLEO DE PEROBA KING LAVANDA 10 UN              31,00      7,85       7,85
+000092 OREGANO CHINEZINHO 200GR (10)  PC               0,00     15,39      15,39
+002655 OUSADIA ABACAXI COQ PET 6X500M FD               0,00     21,92      21,92
+002654 OUSADIA BANANA COQ PET 6X500ML FD               0,00     21,92      21,92
+002719 OUSADIA BLUEBERRY COQ PET 6X50 FD               0,00     21,92      21,92
+002653 OUSADIA LIMAO COQ VD 6X500ML   FD               0,00     21,92      21,92
+002651 OUSADIA MORANGO COQ VID 6X500M FD               0,00     21,92      21,92
+002652 OUSADIA PESSEGO COQ PET 6X500M FD               0,00     21,92      21,92
+002530 PA COLORIDA PRAFESTA PEQ C/100 PC             245,00      3,22       3,22
+001554 PA COLORIDA PRAFESTA PEQ C/200 PC              84,00      6,29       6,29
+001651 PA COLORIDA PRAFESTA PEQ C/500 PC              56,00     13,48      13,48
+000431 PA DE LIXO C/ CABO MADEIRA     UN               0,00      5,59       5,59
+001784 PA DE LIXO COMUM  PEQUENA COLO UN              82,00      1,49       1,49
+001785 PA DE LIXO COMUN BETINA ROSSI( UN               5,00      3,10       3,10
+001787 PA DE LIXO LONGA CB MAD ARTICU UN              34,00      8,22       8,22
+002463 PACOQUITA QUADRADA DISPLAY 20G UN              21,00     28,13      28,13
+002944 PACOQUITA ROLHA EMBALADA C/100 CX              12,00     40,46      40,46
+000432 PALHA DE ACO ASSOLAN N§0 (20)  UN               0,00      1,39       1,39
+000433 PALHA DE ACO ASSOLAN N§1 (20)  UN               0,00      1,39       1,39
+000434 PALHA DE ACO BRILHO MEDIA N§1  UN              74,00      1,53       1,53
+002959 PALHA DE ACO BRILLO FINA N.0(2 PC             120,00      1,53       1,53
+002960 PALHA DE ACO BRILLO GROSSA N.2 UN              49,00      1,53       1,53
+001831 PALITO DENTAL DE BAMBU SACHE C CX             167,00     21,22      21,22
+001544 PALITO DENTE BAMBU 25X100 (20) CX             162,00     20,16      20,16
+002844 PANETTONE NOVITA 400GR         UN               0,00     12,56      12,56
+001901 PANO DE PIA 100% ALGODAO C/10  UN              77,00     14,70      14,70
+002421 PANO DE PRATO ESTAMPADO C/10   PC              67,00     30,24      30,24
+001308 PANO MULT USO NOBRE 50CMX30CM  PC              81,00      5,35       5,35
+001307 PANO MULT USO ROLO NOBRE 30X30 UN              16,00     33,77      33,77
+002744 PANO MULT USO TOP CLEAN 30X45C PC             147,00      5,35       5,35
+001841 PAPEL ACOPLADO MONO 30X38 PADR CX              23,00     33,46      33,46
+001081 PAPEL ALUMINIO MELLO 30X100MT  UN              67,00     43,90      43,90
+001162 PAPEL ALUMINIO MELLO 30X7,5MT  UN             418,00      3,78       3,78
+001418 PAPEL ALUMINIO MELLO 45CMX7,5M UN              66,00      5,84       5,84
+002532 PAPEL HIG BELI GRIFFE F DUPLA  FD              25,00     70,24      70,24
+002676 PAPEL HIG BELISOFT SILVER F SI FD               0,00     45,54      45,54
+001553 PAPEL HIG BOB F SIMPLES  60MT  FD             101,00     98,95      98,95
+002531 PAPEL HIG BOB F SIMPLES 30MT16 FD               0,00     33,90      33,90
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 013
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002733 PAPEL HIG CAR ECO GREEN 30MT 4 FD               0,00     63,01      63,01
+001180 PAPEL HIG CAR GOLD 60MT F SIMP FD               0,00     37,76      37,76
+001182 PAPEL HIG CAR GOLD F DUPLA 30M FD               0,00     45,90      45,90
+001999 PAPEL HIG CAR GOLD F DUPLA 30M FD               0,00     82,03      82,03
+002736 PAPEL HIG CAR OLE F DUPLA 20MT FD               0,00     66,15      66,15
+000185 PAPEL HIG CAR PLUS NE 30MT16X4 FD              91,00     45,84      45,84
+002303 PAPEL HIG CAR TOILET F DUPLA 3 FD               0,00     75,64      75,64
+001932 PAPEL HIG INST XANDY 100% CELU CX              23,00     64,22      64,22
+001235 PAPEL HIG INST XANDY BR 300X10 FD             191,00     45,82      45,82
+001664 PAPEL HIG INST XANDY BR LUXO 3 FD             295,00     57,40      57,40
+002972 PAPEL HIG INT BRASIPEL 100%CEL FD               0,00     84,57      84,57
+001522 PAPEL HIG INT XANDY 100%CEL C/ CX              18,00     70,99      70,99
+002913 PAPEL HIG PREMIUM F DUPLA 30MT FD              12,00    111,71     111,71
+001163 PAPEL HIG PREMIUM F DUPLA 30MT FD               0,00    100,39     100,39
+000032 PAPEL HIG TOILET F DUPLA 30MT  FD               0,00     59,84      59,84
+002791 PAPEL MANTEIGA MELLO 29CMX7,5M UN             149,00      3,35       3,35
+001456 PAPEL OF A4 CHAMEX BCO 210X297 CX               0,00    230,40     230,40
+000448 PAPEL OF A4 COPIMAX 210/297MM  CX               0,00    212,58     212,58
+000447 PAPEL OF A4 COPIMAX 210/297MM  PC               0,00     26,34      26,34
+001455 PAPEL OF A4 INK PREMIUM 210X29 CX              23,00    296,79     296,79
+001645 PAPEL OF A4 INK PREMIUM 500 FO PC               4,00     32,67      32,67
+001647 PAPEL OF A4 REPORT BR 210X297M CX               0,00    306,43     306,43
+001839 PAPEL PADARIA 50X70 RESMA C/10 PC              11,00     93,80      93,80
+002894 PAPEL TOALHA BELI CHEF F DUPLA FD               0,00     42,22      42,22
+000011 PAPEL TOALHA BELI CHEF F DUPLA PC               3,00      3,87       3,87
+002382 PAPEL TOALHA BOBINA LUXO XANDY FD             274,00     83,85      83,85
+001302 PAPEL TOALHA BOBINA XANDY 20X1 CX               3,00     74,17      74,17
+000028 PAPEL TOALHA INT 3D NOBRE SOFT CX              62,00     39,45      39,45
+002833 PAPEL TOALHA INT RIO BRANCO 20 CX               1,00     29,35      29,35
+002428 PAPEL TOALHA INT XANDY 20X21 C CX              62,00     41,22      41,22
+002739 PAPEL TOALHA SULLEG ELEGANTE F FD               0,00     51,41      51,41
+002740 PAPEL TOALHA SULLEG ELEGANTE F PC               9,00      4,49       4,49
+000170 PAPEL TOALHA XANDY BR 20X21 C/ PC           1.810,00     12,59      12,59
+002772 PAPEL TOALHA XANDY BR LUXO 20X PC           2.025,00     14,25      14,25
+002836 PAPEL TOALHA XANDY SOFT BR LUX PC               0,00      9,93       9,93
+001128 PARATINE BRANCO 900ML (12)     LT             677,00     10,42      10,42
+000009 PARATUDO 900ML (12)            LT             598,00     14,65      14,65
+000453 PASTA CRISTAL ROSA 500GR (24)  UN             234,00      5,28       5,28
+000765 PASTILHA ADESIVA SANIT SANY CI CX               0,00      4,32       4,32
+002267 PASTILHA ADESIVA SANIT SANY LA CX               0,00      4,32       4,32
+000455 PEDRA SANITARIA Q-ODOR LAV 25G UN               0,00      2,79       2,79
+001752 PEDRA SANITARIA Q-ODOR PINHO 2 UN              12,00      2,79       2,79
+002541 PEDRA SANITARIA ROSSI LAV 20G  UN              26,00      2,28       2,28
+001756 PEDRA SANITARIA SANY 25G FLORA DZ               0,00     10,28      10,28
+001754 PEDRA SANITARIA SANY 25G JASMI DZ               0,00     10,28      10,28
+001755 PEDRA SANITARIA SANY 25G LAVAN DZ               0,00     10,28      10,28
+002552 PEDRA SANITARIA SANY 25G MISTA DZ              25,00     14,88      14,88
+002620 PESSEGO EM CALDA SCHRAMM 450G  LT               9,00     12,88      12,88
+002615 PIRULITO BABY CORACAO COLORIDO PC               0,00      2,94       2,94
+002614 PIRULITO BABY CORACAO MORANGO  PC               0,00      2,94       2,94
+000461 PLACA DOBRAVEL PISO MOLHADO    UN               1,00     45,53      45,53
+001258 PORTA PAPEL HIG ROLAO  300/500 UN              10,00     34,16      34,16
+002974 POTE CRISTAL RED C/TAMPA 250ML CX               5,00    138,60     138,60
+002975 POTE CRISTAL RED C/TAMPA 500ML UN              19,00    138,60     138,60
+001649 POTE DOCE QUADRADO C/ TAMPA C/ CX               1,00     83,30      83,30
+001648 POTE DOCE RED P9000 C/TAMPA C/ CX               4,00     75,84      75,84
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 014
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002988 POTE PLAST CRISTALCOPO 100ML 2 CX               3,00     81,14      81,14
+002989 POTE PLAST CRISTALCOPO 100ML C PC              32,00      4,47       4,47
+001552 POTE PRAF C/ LACRE 1000ML C/16 CX               6,00    303,62     303,62
+001549 POTE PRAF C/ LACRE 250ML  C/30 CX              31,00    279,94     279,94
+001551 POTE PRAF C/ LACRE 500ML C/20X CX              31,00    253,08     253,08
+001496 POTE PRAF MIX 180ML CRISTAL C/ CX              29,00    249,98     249,98
+002765 POTE PRAF QUADRADO C/TAMPA 250 CX               6,00    119,10     119,10
+002764 POTE PRAF QUADRADO C/TAMPA 350 CX               3,00    134,93     134,93
+001547 POTE PRAF RED 145ML C/SOBRETAM CX               3,00    156,77     156,77
+001909 POTE PRAF RED C/TAMPA 1000ML C CX               1,00    226,85     226,85
+002952 POTE PRAF RED C/TAMPA 200ML C/ CX               8,00    157,92     157,92
+001497 POTE PRAF RED C/TAMPA 250ML C/ CX              38,00    168,42     168,42
+001498 POTE PRAF RED C/TAMPA 500ML  C CX              47,00    188,79     188,79
+002415 POTE PRAF REDONDO 250ML C/900  CX               1,00    264,60     264,60
+002585 POTE PRAF RETANG C/ TAMPA 250M CX               1,00     75,26      75,26
+002586 POTE PRAF RETANG C/TAMPA 500ML CX               0,00    103,66     103,66
+002980 POTE RED C/ LACRE 250ML C/100  CX               9,00     58,80      58,80
+002981 POTE RED C/LACRE 500ML C/100 F UN              14,00     79,80      79,80
+002966 POTE T PLAST RED 100ML 20X100  CX              18,00     90,87      90,87
+002967 POTE T PLAST RED 100ML C/100   PC              72,00      4,99       4,99
+002505 POTE T PLAST RED C/ TAMPA 200M CX               2,00    114,65     114,65
+002858 POTE T PLAST RED C/ TAMPA 250M CX               0,00    120,73     120,73
+002859 POTE T PLAST RED C/ TAMPA 500M UN               7,00    141,06     141,06
+002621 POTE T PLAST RETANG C/TAMPA 25 CX               1,00     52,71      52,71
+002618 POTE T PLAST RETANG C/TAMPA 50 CX               0,00     75,17      75,17
+002906 POTE T PLAST RETANG C/TAMPA 75 CX               1,00    107,39     107,39
+002812 POTE TERMICO TPLAST 300ML 50X2 CX              43,00    243,24     243,24
+002918 POTE TERMICO TPLAST 300ML C/20 PC              40,00      5,35       5,35
+002641 PRANCHA TOTAL PLAST 210X140MM  FD              18,00     38,99      38,99
+002067 PRATO DE PAPELAO N-10 350MM C/ FD               4,00     52,32      52,32
+002068 PRATO DE PAPELAO N-12 370MM C/ FD               1,00     52,78      52,78
+002064 PRATO DE PAPELAO N-4 200MM C/1 FD               0,00     11,45      11,45
+002065 PRATO DE PAPELAO N-5 230MM C/1 FD               0,00     17,07      17,07
+002066 PRATO DE PAPELAO N-6 250MM C/1 FD               1,00     21,55      21,55
+002069 PRATO LAMINADO N-4 26CM C/10   PC               4,00     12,92      12,92
+001878 PRATO LAMINADO N-5 27CM C/10   PC               0,00     18,18      18,18
+002756 PRATO LAMINADO N-6 32CM C/10   PC               0,00     22,44      22,44
+001879 PRATO LAMINADO N-6 32CM C/100  PC               0,00     87,57      87,57
+001880 PRATO LAMINADO N-7 34CM C/100  FD               4,00     94,68      94,68
+002757 PRATO LAMINADO N-7 35CM C/10   PC               1,00     25,56      25,56
+002758 PRATO LAMINADO N-9 43CM C/10   PC               7,00     33,68      33,68
+002994 PRATO PLAST CRISTALCOPO N23 FU UN             500,00      3,26       3,26
+002995 PRATO PLAST CRISTALCOPO N26 RA PC             125,00      5,00       5,00
+000465 PRATO PLAST QUAD MED BR Q LINE PC              15,00      1,40       1,40
+001529 PRATO PLAST T PLAST FUNDO 15 1 CX              25,00    113,32     113,32
+002996 PRATO PLAST T PLAST FUNDO 15 C PC              82,00      1,58       1,58
+002262 PRATO PLAST TOTALPLAST N-15 C/ PC           2.473,00      1,16       1,16
+001928 PRATO PLAST TOTALPLAST N-18 C/ PC           5.080,00      1,65       1,65
+001929 PRATO PLAST TOTALPLAST N-21 C/ PC             377,00      2,33       2,33
+002275 PRATO PLAST TOTALPLAST N-26 C/ PC           1.310,00      4,12       4,12
+001350 PRATO QUADRADO CRISTAL C/10 (2 PC               0,00      7,89       7,89
+002293 PRATO REF CRISTAL VEC PLAST C/ PC               0,00      7,72       7,72
+002295 PRATO REF PRETO VEC PLAST C/10 PC               0,00      7,72       7,72
+002294 PRATO REF VERMELHO VEC PLAST C PC               0,00      7,72       7,72
+002296 PRATO SOBR. CRISTAL VEC PLAST  PC               0,00      4,53       4,53
+002298 PRATO SOBR. PRETO VEC PLAST C/ PC              50,00      4,53       4,53
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 015
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002297 PRATO SOBR. VERMELHO VEC PLAST PC               0,00      4,53       4,53
+001403 PRENDEDOR ROUPA  MADEIRA C/12  PC             304,00      1,96       1,96
+002776 PROTETOR DESC P/ ASSENTO SANIT CX               2,00     12,00      12,00
+002708 PULVERIZADOR P/GARRAFA PET AM  UN               0,00     10,91      10,91
+000594 PULVERIZADOR PLASTICO MAN.RINO UN             153,00      5,19       5,19
+002251 PURIFICADOR GLADE AERO 360ML L UN               0,00      8,44       8,44
+002252 PURIFICADOR GLADE AERO 360ML T UN               0,00      8,44       8,44
+002170 QUENT ISOP C/TAMPA T PLAST 110 FD             128,00     66,88      66,88
+002133 QUENT ISOP C/TAMPA T PLAST 750 FD              12,00     59,99      59,99
+002830 QUENT ISOP C/TAMPA T PLAST RAS FD               0,00     57,13      57,13
+002343 QUENT ISOP T PLAST FUNDA 500ML FD              17,00     34,90      34,90
+002735 QUENTINHA MELLO 3 DIVIS T FUND CX              24,00    119,99     119,99
+002055 QUENTINHA MELLO 3 DIVIS Y RASA CX              66,00    114,44     114,44
+000090 QUENTINHA MELLO MAN N§ 9 C/100 CX              46,00     43,75      43,75
+001244 QUENTINHA MELLO MAN N§5 C/100  CX              68,00     26,74      26,74
+000041 QUENTINHA MELLO MAN N§7 C/100  CX              42,00     36,40      36,40
+000472 QUENTINHA MELLO MAN N§8 C/100  CX              38,00     35,81      35,81
+000473 QUENTINHA MELLO MAQ N§7 C/100  CX              26,00     36,40      36,40
+000040 QUENTINHA MELLO MAQ N§8 C/100  CX               0,00     40,50      40,50
+000609 QUENTINHA MELLO MAQ N§8 C/400  CX              41,00    142,58     142,58
+000474 QUENTINHA MELLO MAQ N§9 C/100  CX               9,00     43,75      43,75
+000475 QUENTINHA QUAD MELLO M120 500G CX              26,00     44,80      44,80
+000196 QUENTINHA QUAD MELLO M131 750G CX              31,00     60,77      60,77
+001609 QUENTINHA QUAD MELLO M170 1100 CX              21,00     87,49      87,49
+000476 QUENTINHA QUAD MELLO M184 1500 CX              17,00    105,70     105,70
+001245 QUENTINHA QUAD MELLO M90 220 M CX              63,00     31,68      31,68
+002720 QUENTINHA QUADRADA MELLO M220  CX              20,00    169,90     169,90
+000611 QUEROSENE M LAGOS PET 500ML (1 UN               0,00     13,05      13,05
+000610 QUEROSENE M LAGOS PET LT (12)  UN              21,00     24,16      24,16
+002709 RATICIDA GIRASSOL FOR-RAT 40X2 PC               0,00      0,53       0,53
+000777 REF QUALIMAX ADOCADO ABACAXI K PC               0,00     10,85      10,85
+000555 REF QUALIMAX ADOCADO CAJU KG ( PC               0,00     10,85      10,85
+000556 REF QUALIMAX ADOCADO GOIABA KG PC               0,00     10,85      10,85
+000493 REF QUALIMAX ADOCADO LAR/ACER  PC               0,00     10,85      10,85
+001706 REF QUALIMAX ADOCADO LARANJA K PC               7,00     10,85      10,85
+000186 REF QUALIMAX ADOCADO LIMAO KG  PC               0,00     10,85      10,85
+000494 REF QUALIMAX ADOCADO MANGA KG  PC               3,00     10,85      10,85
+000495 REF QUALIMAX ADOCADO MARACUJA  PC               0,00     10,85      10,85
+000049 REF QUALIMAX ADOCADO PESSEGO K PC               0,00     10,85      10,85
+000497 REF QUALIMAX ADOCADO UVA KG (1 PC              13,00     10,85      10,85
+002203 REF YOKI ADOCADO ABACAXI 300GR PC               0,00      9,04       9,04
+001627 REF YOKI ADOCADO LARANJA 300GR PC               0,00      9,04       9,04
+002213 REF YOKI ADOCADO LIMAO 300GR(2 PC               0,00      9,04       9,04
+002798 REF YOKI ADOCADO MANGA 300GR(2 PC               0,00      9,04       9,04
+002760 REF YOKI ADOCADO MARACUJA 300G PC               0,00      9,04       9,04
+001479 REF YOKI ADOCADO UVA 300GR(24) PC               6,00      9,04       9,04
+001247 REFRESCO FRESH ABACAXI ADOCADO CX               0,00      9,23       9,23
+001248 REFRESCO FRESH CAJU ADOCADO 15 CX               0,00      8,58       8,58
+001249 REFRESCO FRESH GUARANA ADOCADO CX               0,00      8,58       8,58
+001252 REFRESCO FRESH LARANJA ADOCADO CX               0,00      8,58       8,58
+001435 REFRESCO FRESH LIMAO ADOCADO 1 CX               0,00      8,58       8,58
+001253 REFRESCO FRESH MANGA ADOCADO 1 CX               0,00      8,58       8,58
+001254 REFRESCO FRESH MARACUJA ADOCAD CX               0,00      8,58       8,58
+001255 REFRESCO FRESH MORANGO ADOCADO CX               0,00      9,23       9,23
+002588 REFRESCO FRESH TANGERINA ADOCA CX               0,00      8,74       8,74
+001251 REFRESCO FRESH UVA ADOCADO 15X CX               0,00      9,23       9,23
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 016
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002595 REFRESCO TANG LARANJA 15X25G   CX               0,00     19,60      19,60
+002596 REFRESCO TANG LIMAO 15X25G     CX               0,00     19,60      19,60
+002186 REPELENTE REPELEX SPRAY 100ML  UN              33,00     10,99      10,99
+001212 RESERVATORIO P/ SABONETEIRA LD UN               0,00      7,84       7,84
+002903 RODO MADEIRA LEAO 30 CM        UN              35,00     10,85      10,85
+002904 RODO MADEIRA LEAO 40CM         UN               0,00     11,90      11,90
+002905 RODO MADEIRA LEAO 60CM         UN              10,00     15,22      15,22
+001283 RODO MADEIRA ROSSI 30CM        UN              44,00     16,88      16,88
+001284 RODO MADEIRA ROSSI 40CM        UN              37,00     18,59      18,59
+000501 RODO MADEIRA ROSSI 60CM        UN               4,00     30,11      30,11
+002943 RODO PIA ROSSI (36)            UN              29,00      5,53       5,53
+001275 RODO PLAST GUIRRADO DUPLO C/ C UN              27,00      8,93       8,93
+000123 RODO PLAST GUIRRADO DUPLO C/ C UN              64,00     10,46      10,46
+000502 RODO PLAST GUIRRADO DUPLO C/ C UN              79,00     16,51      16,51
+001262 RUM MONTILLA CARTA ORO 1000ML  LT               0,00     22,83      22,83
+002529 SAB AGIPRO CLEENE FLORES 800ML CX               0,00      8,43       8,43
+002524 SAB AGIPRO CLEENE PEROL  PITAN GL               1,00     28,94      28,94
+002523 SAB AGIPRO CLEENE PEROL ERVA D GL             278,00     28,94      28,94
+002528 SAB AGIPRO CLEENE PEROL ERVA D CX              24,00      7,10       7,10
+002728 SAB AGIPRO CLEENE PEROL FLORES GL               1,00     28,94      28,94
+002526 SAB AGIPRO CLEENE PEROL TALCO  GL               0,00     28,94      28,94
+002527 SAB AGIPRO CLEENE PEROL TALCO  CX              10,00      7,10       7,10
+002507 SAB DETAGOLD LIQ 2LT ACAI/PITA UN               6,00     14,70      14,70
+002508 SAB DETAGOLD LIQ 2LT BURUTI/CA UN               6,00     14,70      14,70
+002509 SAB DETAGOLD LIQ 2LT ERVA DOCE UN               3,00     14,70      14,70
+002510 SAB DETAGOLD LIQ 2LT ERVAS E F UN               6,00     14,70      14,70
+002513 SAB DETAGOLD LIQ 2LT FLOR DE A UN               6,00     14,70      14,70
+002511 SAB DETAGOLD LIQ 2LT FRUTAS VE UN               6,00     14,70      14,70
+002547 SAB DETAGOLD LIQ 2LT LAVANDA   UN               6,00     14,70      14,70
+002512 SAB DETAGOLD LIQ 2LT MACAD/FLR UN               6,00     14,70      14,70
+002477 SAB DETAGOLD LIQ 490ML ACAI/PI UN              11,00      9,80       9,80
+002478 SAB DETAGOLD LIQ 490ML BUTITI/ UN              11,00      9,80       9,80
+002476 SAB DETAGOLD LIQ 490ML CEREJA/ UN              11,00      9,80       9,80
+002488 SAB DETAGOLD LIQ 490ML CRANBER UN              10,00      9,80       9,80
+002479 SAB DETAGOLD LIQ 490ML ERVA DO UN               9,00      9,80       9,80
+002480 SAB DETAGOLD LIQ 490ML ERVAS/F UN              11,00      9,80       9,80
+002487 SAB DETAGOLD LIQ 490ML FLOR DE UN               9,00      9,80       9,80
+002482 SAB DETAGOLD LIQ 490ML FRUTAS  UN              12,00      9,80       9,80
+002483 SAB DETAGOLD LIQ 490ML FRUTAS  UN              11,00      9,80       9,80
+002489 SAB DETAGOLD LIQ 490ML LAVANDA UN              10,00      9,80       9,80
+002659 SAB DETAGOLD LIQ ERVA DOCE 5LT GL               1,00     27,30      27,30
+002469 SAB DETG ESPUMA 600ML ERVA DOC UN              12,00     16,24      16,24
+002470 SAB DETG ESPUMA 600ML FLOR DE  UN              12,00     16,24      16,24
+002471 SAB DETG ESPUMA 600ML FRUTAS V UN              12,00     16,24      16,24
+002472 SAB DETG ESPUMA 600ML LIRIO BR UN              12,00     16,24      16,24
+002473 SAB DETG ESPUMA 600ML MACAD/FL UN              11,00     16,24      16,24
+002442 SAB LIQ MOLLIS AMORE MIO 12X80 UN               0,00      8,43       8,43
+002035 SAB LIQ MOLLIS FLORES 12X800ML UN               1,00      8,43       8,43
+002439 SAB LIQ MOLLIS MA€A VERDE 5LT  GL               0,00     27,30      27,30
+002031 SAB LIQ MOLLIS PEROLIZADO TALC GL               0,00     27,30      27,30
+002819 SAB LIQ MOLLIS TALCO 12X800 ML UN               0,00      8,43       8,43
+002774 SABAO COCO  MINUANO 5X100G     PC               0,00      8,47       8,47
+000617 SABAO COCO RUTH 100G (100)     UN               0,00      3,02       3,02
+000503 SABAO COCO RUTH-UFE 90G C/5 (2 PC             380,00     12,99      12,99
+002773 SABAO GLICERINADO MINUANO C/5  PC               0,00     13,52      13,52
+000082 SABAO GLICERINADO YPE 180G C/5 PC              45,00     13,43      13,43
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 017
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001469 SABAO PASTOSO CORCOVADO 200G ( UN             231,00      4,39       4,39
+000505 SABAO PASTOSO CORCOVADO 500G ( UN              24,00      6,42       6,42
+002941 SABAO PO MONTE LAGOS KG        CX               0,00     10,40      10,40
+001662 SABAO PO TIXAN/YPE 400G MACIEZ CX             169,00      6,57       6,57
+001857 SABAO PO TIXAN/YPE 400G PRIMAV CX             183,00      6,57       6,57
+000085 SABAO PO TIXAN/YPE 800GR MACIE CX              78,00     11,89      11,89
+001679 SABAO PO TIXAN/YPE 800GR PRIMA CX             209,00     11,89      11,89
+000126 SABAO PO TIXAN/YPE MACIEZ C/5K PC               0,00     36,26      36,26
+002371 SABAO PO UZZILIM FLOR SACHE 50 PC             356,00      3,16       3,16
+002633 SABAO PO UZZILIM FLOR SACHE KG PC              98,00      4,07       4,07
+002634 SABAO PO UZZILIM LAVANDA SACHE PC             157,00      4,07       4,07
+002462 SABAO PO UZZILIM LAVANDA SACHE PC             356,00      3,16       3,16
+001677 SABONETE ALBANY AM PR LEITE 12 DZ               0,00     21,95      21,95
+002662 SABONETE ALBANY EXT AVEIA 12X8 DZ               0,00     21,95      21,95
+002306 SABONETE ALBANY LEITE COCO 12X DZ               0,00     21,95      21,95
+002441 SABONETE ALBANY OLEO MACAD 12X DZ               0,00     21,95      21,95
+002467 SABONETE SIENE MISTO 85GRX12   DZ               0,00     15,02      15,02
+002325 SABONETE YPE AMAR F LAR/DAMASC DZ               0,00     19,53      19,53
+002454 SABONETE YPE AZUL ROSAS BR/AVL DZ               1,00     21,04      21,04
+002326 SABONETE YPE GARD ARGAN BR 85G DZ               0,00     21,04      21,04
+002305 SABONETE YPE LILAS FRE/PESSEGO DZ               0,00     19,53      19,53
+002327 SABONETE YPE ROSA MACA/FRAMB 8 DZ               2,00     21,04      21,04
+002753 SABONETE YPE VERD AG COCO/ALEC DZ               0,00     19,53      19,53
+002259 SABONETEIRA DE MESA C/ VALVULA UN               0,00      4,50       4,50
+000132 SABONETEIRA NOBRE CINZA/BRANCO UN               1,00     20,44      20,44
+002723 SABONETEIRA P/ REFIL -WHITE    UN               7,00     25,45      25,45
+002422 SACO ALVEJADO PADRAO DM22 C/10 PC             984,00     44,50      44,50
+002423 SACO CRU ESPECIAL C/10         PC             198,00     43,40      43,40
+000533 SACO LIXO BAY PLASTC 60LT PESD PC               0,00     26,98      26,98
+000035 SACO LIXO ELEF. PR 100LT LEVE  PC              26,00     54,39      54,39
+000036 SACO LIXO ELEF. PR 100LT MEDIO PC             219,00     65,93      65,93
+000037 SACO LIXO ELEF. PR 100LT PESAD PC             135,00     74,17      74,17
+000038 SACO LIXO ELEF. PR 200LT C/50  PC              14,00     57,68      57,68
+000526 SACO LIXO ELEF. PR 20LT C/100  PC              63,00     14,84      14,84
+000033 SACO LIXO ELEF. PR 40LT C/100  PC             255,00     23,07      23,07
+000034 SACO LIXO ELEF. PR 60LT C/100  PC              54,00     28,02      28,02
+001082 SACO LIXO HOSP 100LT BR 75X90X PC               7,00     65,45      65,45
+001083 SACO LIXO HOSPITALAR 100LT 75X PC               3,00     50,16      50,16
+002636 SACO LIXO HOSPITALAR 15 LT 39X PC              39,00     14,40      14,40
+002637 SACO LIXO HOSPITALAR 200 LT 95 PC               3,00     82,89      82,89
+001084 SACO LIXO HOSPITALAR 30LT 59X6 PC              39,00     23,30      23,30
+001085 SACO LIXO HOSPITALAR 50LT 63X8 PC              24,00     32,11      32,11
+000622 SACO LIXO PRT 100LT SUP PES C/ PC              27,00     74,72      74,72
+001977 SACO LIXO REC 40LT C/100       PC              33,00     12,54      12,54
+002909 SACO LIXO REC 60 LT C/100      PCT             17,00     26,98      26,98
+001733 SACO LIXO REC PESADO 250LT C/1 PC               0,00    102,92     102,92
+001732 SACO LIXO REC PESD 300LT 125X1 PC              43,00    204,40     204,40
+001487 SACO P/ HAMBURGUER 20X14 C/100 PC           1.081,00      2,40       2,40
+000632 SACO P/ HAMBURGUER 20X14 C/500 PC             513,00     11,94      11,94
+001488 SACO P/ HOT DOG 25X14CM C/100  PC             881,00      2,99       2,99
+001155 SACO P/ HOT DOG 25X14CM C/500  PC             491,00     14,87      14,87
+002040 SACO P/ HOT DOG DOGUINHO 15X10 PC             257,00      1,06       1,06
+001830 SACO P/ TALHER MONO C/1000     PC             196,00     36,40      36,40
+001317 SACO PAPEL MIX P/ 1/2 KG C/500 CX              50,00     14,40      14,40
+001937 SACO PAPEL MIX P/ 1/4 KG C/500 CX              46,00     12,68      12,68
+001979 SACO PAPEL MIX P/10KG C/500    CX              52,00     68,60      68,60
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 018
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001980 SACO PAPEL MIX P/15KG C/500    CX              54,00     72,42      72,42
+000628 SACO PAPEL MIX P/1KG C/500     CX               2,00     16,80      16,80
+001323 SACO PAPEL MIX P/2KG C/500     CX              50,00     25,20      25,20
+000629 SACO PAPEL MIX P/3KG C/500     CX              30,00     33,60      33,60
+001939 SACO PAPEL MIX P/5KG C/500     CX              25,00     49,70      49,70
+001938 SACO PAPEL MIX P/7,500 KG C/50 CX              33,00     58,22      58,22
+002696 SACO PAPEL MONO BR 1/2KG C/500 CX              27,00     27,93      27,93
+002367 SACO PAPEL MONO BR 1KG C/500   CX               5,00     35,00      35,00
+002368 SACO PAPEL MONO BR 2KG C/500   CX               5,00     52,50      52,50
+002383 SACO PAPEL MONO BR 3KG C/500   CX              14,00     56,00      56,00
+002369 SACO PAPEL MONO BR 5KG C/500   CX              13,00     84,00      84,00
+002656 SACO PAPEL MONO PIPOCA P1 C/50 PC              16,00     10,39      10,39
+002939 SACO PAPEL MONO PIPOCA P3 C/50 PC              10,00     16,10      16,10
+001833 SACO PLASTICO 'PP' 11X15X0,06  PC               0,00     20,30      20,30
+001996 SACO PLASTICO 'PP' 22X50X0,7 ( PC               0,00     73,50      73,50
+002911 SACO PLASTICO VIRGEM 11X15X0,0 PC              70,00     21,00      21,00
+001160 SACO PLASTICO VIRGEM 15X20X0,6 PC             141,00     21,70      21,70
+001817 SACO PLASTICO VIRGEM 15X25X0,6 PC              75,00     21,70      21,70
+002738 SACO PLASTICO VIRGEM 15X30X0,0 PC              79,00     21,70      21,70
+002910 SACO PLASTICO VIRGEM 17X35X0,0 PC              56,00     21,70      21,70
+002043 SACO PLASTICO VIRGEM 20X30X0,6 PC              81,00     21,70      21,70
+001824 SACO PLASTICO VIRGEM 22X50X0,6 PC              35,00     21,70      21,70
+001825 SACO PLASTICO VIRGEM 25X35X0,6 PC              54,00     21,70      21,70
+001994 SACO PLASTICO VIRGEM 30X40X0,6 PC              61,00     21,70      21,70
+002395 SACO PLASTICO VIRGEM 40X50X0,6 PC              36,00    108,50     108,50
+001995 SACO PLASTICO VIRGEM 40X60X0,1 PC              46,00    108,50     108,50
+001826 SACO PLASTICO VIRGEM 50X70X0,1 PC              51,00    108,50     108,50
+001913 SACO PLASTICO VIRGEM 60X90X0,1 PC              28,00    108,50     108,50
+002649 SACOLA BIO DEG VERDE 38X50 C/  PC               0,00     55,38      55,38
+002746 SACOLA BIO DEG VERDE 50X60 C/5 PC             170,00     69,51      69,51
+002745 SACOLA BIO DEG VERDE30X45 C/10 PC             157,00     44,02      44,02
+001809 SACOLA BRANCA 30X45X30 SUPER F PC             467,00     37,70      37,70
+002860 SACOLA BRANCA 40X50X30  SUPER  CX             235,00     51,73      51,73
+002716 SACOLA BRANCA 50X60X30 SUPER F PC             242,00     62,86      62,86
+000527 SACOLA BRANCA REF OTIMA 38X48  PC             279,00     56,49      56,49
+001075 SACOLA BRANCA TRAD 25X35 C/100 PC             127,00     25,20      25,20
+000630 SACOLA BRANCA TRAD 30X40  C/10 PC              41,00     33,95      33,95
+002047 SACOLA BRANCA TRAD 30X45  C/10 PC             125,00     37,66      37,66
+000631 SACOLA BRANCA TRAD 38X48 C/100 PC              45,00     50,40      50,40
+002048 SACOLA BRANCA TRAD 40X50 C/100 PC              42,00     56,42      56,42
+001316 SACOLA BRANCA TRAD 43X55 C/ 10 PC               0,00    105,12     105,12
+001807 SACOLA BRANCA TRAD 50X60 C/100 PC              94,00    107,37     107,37
+001088 SACOLA BRANCA TRAD 60X75 C/500 PC              87,00     92,40      92,40
+000528 SACOLA PRETA ECO 25X35 C/1000  PC               0,00     27,93      27,93
+000819 SACOLA PRETA ECO 30X45 C/1000  PC              89,00     38,64      38,64
+000051 SACOLA PRETA ECO 38X48 C/1000  PC              59,00     42,21      42,21
+002747 SACOLA RECICLAVEL VERDE 48X53  PC               0,00     55,61      55,61
+002704 SACOLA REFORCADA CINZA 30X45 C PC             392,00     60,00      60,00
+002241 SACOLA REFORCADA CINZA 40X50 C PC             558,00     60,00      60,00
+002017 SACOLA REFORCADA CINZA 50X60 C PC              56,00     60,00      60,00
+000634 SACOLA REFORCADA CINZA 60X75 C PC             200,00     60,00      60,00
+001141 SACOLA REFORCADA CINZA 80X100  PC              56,00     60,00      60,00
+002947 SACOLA REFORCADA PRETA 30X45 C PCT             23,00     63,40      63,40
+002948 SACOLA REFORCADA PRETA 40X50 C PCT              9,00     63,40      63,40
+002332 SACOLA REFORCADA PRETA 60X75 C PC              21,00     63,40      63,40
+002843 SACOLE 4X23 C/1000             PC              79,00      8,33       8,33
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 019
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001439 SACOLE 5X23 C/1000             PC           1.074,00     10,64      10,64
+000504 SACOLE 6X23 C/1000             PC           1.163,00     12,60      12,60
+001823 SACOLE 8X25 C/1000             PC             145,00     14,28      14,28
+002376 SAL SACHE ITA C/2000X1G        CX             105,00     31,79      31,79
+002881 SALG TORCIDA BACON 70G C/10    PC               0,00     24,27      24,27
+002882 SALG TORCIDA CALABRESA 70G C/1 PC               0,00     24,27      24,27
+002883 SALG TORCIDA CAMARAO/PIMENTA 7 PC               1,00     24,27      24,27
+002884 SALG TORCIDA CEBOLA 70G C/10   PC               0,00     24,27      24,27
+002885 SALG TORCIDA CHURRASCO 70G C/1 PC               0,00     24,27      24,27
+002907 SALG TORCIDA COST C/ LIMAO 70G PC               0,00     24,27      24,27
+002890 SALG TORCIDA PAO DE ALHO 70GRC PC               0,00     24,27      24,27
+002889 SALG TORCIDA PASTEL CARNE 70G  PC               0,00     19,46      19,46
+002887 SALG TORCIDA PIMENTA MEXICANA  PC               1,00     24,27      24,27
+002888 SALG TORCIDA QUEIJO 70G C/10   PC               1,00     24,27      24,27
+002908 SALG TORCIDA VINAGRETE 70G C/1 PC               4,00     24,27      24,27
+001395 SALSICHA CARIOCA 180G C/12 (24 DZ               0,00     34,27      34,27
+002718 SALSICHA FRISA 180G C/12 (24)  DZ              37,00     46,02      46,02
+001238 SAPOLIO CREMOSO RADIUM CLASSIC UN              19,00      8,76       8,76
+001309 SAPOLIO CREMOSO RADIUM LIMAO 2 UN               0,00      6,75       6,75
+002729 SAPOLIO CREMOSO SANY CLORO(24) UN              58,00      3,67       3,67
+001738 SAPOLIO PO RADIUM CLASSICO 300 UN              38,00      5,91       5,91
+000635 SAPOLIO PO RADIUM CLORO 300GR  UN              18,00      6,09       6,09
+002336 SAPOLIO PO SANY CLORO 300G (12 UN               0,00      2,14       2,14
+001429 SARDINHA 88 OLEO ABRE FACIL 12 UN              15,00     32,93      32,93
+001407 SARDINHA 88 TOMATE ABRE FACIL  UN              12,00     32,93      32,93
+001467 SARDINHA COQUEIRO ABRE FACIL O PC               0,00     25,62      25,62
+001454 SARDINHA COQUEIRO ABRE FACIL T PC               0,00     21,00      21,00
+002701 SECANTE ABRILHANTADOR P/ MAQ L GL               4,00     56,06      56,06
+000638 SIDRA ESPUM DEL SOLE BR VD 660 UN              36,00     13,83      13,83
+002416 SOBRETAMPA PRAFESTA REDONDO 25 CX               8,00    153,30     153,30
+001165 SODA CAUSTICA M LAGOS 400GR (1 UN               0,00      9,79       9,79
+002444 STEINHAEGER SCHUSS 980ML (6)   LT              67,00     21,98      21,98
+000642 STEINHAGER BECOSA 980ML (12)   LT               0,00     34,86      34,86
+001396 STEINHAGER DUBAR 960ML (12)    LT              72,00     23,73      23,73
+002803 SUCO DE UVA 1,5 L              UN               0,00     15,41      15,41
+002180 SUPORTE PLASTICO P/ FIBRA C/ C UN              22,00     26,22      26,22
+002919 TAMPA P/ COPO TERMICO 240ML C/ PC               3,00      7,36       7,36
+002810 TAMPA P/ COPO TERMICO 240ML10X CX              15,00     69,28      69,28
+002920 TAMPA P/ COPO TERMICO 300ML 10 CX              22,00     80,12      80,12
+002922 TAMPA P/ COPO TERMICO 300ML C/ PC              17,00      8,81       8,81
+002814 TAMPA P/ POTE TERMICO 300ML 20 CX              45,00     99,96      99,96
+002923 TAMPA P/ POTE TERMICO 300ML C/ PC              35,00      5,50       5,50
+002990 TAMPA PLAST CRISTALCOPO 100ML  CX               7,00    128,48     128,48
+002991 TAMPA PLAST CRISTALCOPO 100ML  PC              40,00      7,06       7,06
+002992 TAMPA PLAST CRISTALCOPO 200ML  CX               9,00    111,72     111,72
+002993 TAMPA PLAST CRISTALCOPO 200ML  PC              40,00      6,15       6,15
+001993 TAMPA PLAST P/ 300ML TRANSP 'P PC               0,00      2,43       2,43
+001873 TAMPA QUENT ISOP T PLAST 500ML CX              20,00     24,12      24,12
+002084 TAMPA T PLAST P/ 200/250ML C/5 PC             536,00      4,26       4,26
+002278 TAMPA TOTAL PLAST P/100ML 20X1 CX               5,00     87,97      87,97
+002279 TAMPA TOTAL PLAST P/100ML C/10 PC              15,00      4,85       4,85
+000024 TELA ODORIZADORA P/ MICTORIO M UN               0,00      4,99       4,99
+001475 TEQUILA J CUERVO 750ML ORO     LT               0,00     76,80      76,80
+001476 TEQUILA J CUERVO 750ML PRATA   LT               0,00     76,80      76,80
+002060 TEQUILA SOUZA GOLD 750ML (12)  LT               0,00     63,00      63,00
+002061 TEQUILA SOUZA SILVER 750ML (12 LT               0,00     63,00      63,00
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 020
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+002130 TIRA LIMO AZULIM SQUEEZE 550ML UN               0,00      3,73       3,73
+002749 TIRA LIMO LIMPOL 500ML (12)    UN              40,00      8,05       8,05
+002085 TOALHA PAPEL P/ MESA BR 30X40  PC              25,00     69,30      69,30
+000531 TOALHA PAPEL P/ MESA BR 60X60  PC             120,00     69,30      69,30
+000654 TOALHA PAPEL P/ MESA BR 70X70  PC              83,00     69,30      69,30
+001829 TOALHA PAPEL P/ MESA BR 80X80  PC             107,00     69,30      69,30
+000655 TOALHEIRO P/ PAPEL BOBINA 100M UN               0,00     43,05      43,05
+000656 TOALHEIRO P/ PAPEL INT 2 E 3 D UN              24,00     36,46      36,46
+000532 TOUCA MULTI USO TNT C/ 100     PC             545,00      8,96       8,96
+002869 TRENTO W AVELA 16X32G          CX               1,00     35,52      35,52
+002964 TRENTO W BRANCO AVELA 16X32G   CX               1,00     30,66      30,66
+002871 TRENTO W CHOC BRANCO 16X32G    CX               1,00     35,52      35,52
+002870 TRENTO W CHOCOLATE 16X32G      CX               0,00     35,52      35,52
+002872 TRENTO W CHOCOLATE DUO 16X32G  CX               0,00     30,66      30,66
+002873 TRENTO W CREME 16X32G          CX               6,00     35,52      35,52
+002874 TRENTO W DARK 16X32G           CX               2,00     35,52      35,52
+002875 TRENTO W M DE MARACUJA 16X32G  CX               5,00     35,52      35,52
+002965 TRENTO W MOCACC 16X32G         UN               0,00     30,66      30,66
+002914 TRENTO W MORANGO 16X32G        CX               3,00     35,52      35,52
+002876 TRENTO W TORTA LIMAO 16X32G    CX               0,00     35,52      35,52
+000139 TRIDENT CANELA C/21            CX               0,00     25,72      25,72
+002181 TRIDENT FRESH CEREJA C/21      CX               0,00     23,76      23,76
+000059 TRIDENT FRESH INTENSE C/21     CX               0,00     25,72      25,72
+000060 TRIDENT HERBAL FRESH C/21      CX               0,00     22,90      22,90
+000140 TRIDENT HORTELA C/21           CX               0,00     33,75      33,75
+002333 TRIDENT LIMONADA E UVA C/21    CX               0,00     23,76      23,76
+000080 TRIDENT MELANCIA C/21          CX               0,00     23,76      23,76
+000659 TRIDENT MENTA C/21             CX               7,00     40,91      40,91
+000141 TRIDENT MORANGO C/21           CX               0,00     23,76      23,76
+000657 TRIDENT TUTI FRUIT C/21        CX               0,00     23,76      23,76
+000142 TRIDENT UVA VERDE C/21         CX               0,00     23,76      23,76
+001989 VASILHAME MISTO                UN               0,00      5,00       0,00
+000779 VASSOURA GARI LEAO MAD C/CABO  UN              22,00     33,39      33,39
+000749 VASSOURA LEAO ESPECIAL CHAPA 3 UN             108,00     14,00      14,00
+002212 VASSOURA LEAO NYLON C/ CABO CO UN               0,00      8,26       8,26
+001791 VASSOURA LIMPA TETO NULON LEAO UN               0,00     32,90      32,90
+001089 VASSOURA MINI-PIA ROSSI PIACAV UN             202,00      5,38       5,38
+002957 VASSOURA PELO/NYLON 40CM       UN               7,00     27,86      27,86
+000660 VASSOURA ROSSI CRIMBOLA        UN               2,00     45,58      45,58
+000664 VASSOURA ROSSI CRINA ANIMAL 1M UN               3,00    165,20     165,20
+000662 VASSOURA ROSSI CRINA ANIMAL 30 UN              18,00     50,32      50,32
+001411 VASSOURA ROSSI CRINA ANIMAL 40 UN              11,00     89,26      89,26
+001109 VASSOURA ROSSI CRINA ANIMAL 60 UN              10,00    111,34     111,34
+002731 VASSOURA ROSSI NYLON CANTO MOD UN               0,00     12,46      12,46
+002674 VASSOURA ROSSI NYLON PLUS (12) UN              11,00     13,16      13,16
+000593 VASSOURA ROSSI PIACAVA CHAPA 3 UN              13,00     26,85      26,85
+002008 VASSOURA SANIT ROSSI PIACAVA ( UN              12,00      6,79       6,79
+000169 VASSOURINHA P/ SANIT ROSSI C/  UN               1,00     11,94      11,94
+000344 VASSOURINHA SANIT NYLON ODIN   UN              19,00      4,65       4,65
+000083 VEJA MULT-USO ORIGINAL SQUEEZE UN               0,00      3,99       3,99
+000677 VEJA PERFUMES SENS LAVANDA 500 UN               0,00      3,29       3,29
+000680 VEJA VIDREX CRISTAL REFIL 500M UN               0,00      8,24       8,24
+000679 VEJA VIDREX SQUE BIO ALCOOL 50 UN               1,00      6,96       6,96
+000681 VEJA X 14 CLORO ATIVO 500ML (2 UN               0,00      7,07       7,07
+001538 VELA CHAMA SETE DIAS MEDIA (15 UN               0,00     11,23      11,23
+001506 VELA RAIO DE LUZ  SETE DIAS GR UN               0,00     11,87      11,87
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 021
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001502 VELA RAIO DE LUZ N§4 C/8 (25)  PC           1.484,00      3,19       3,19
+001504 VELA RAIO DE LUZ N§5 (25)      PC               0,00      4,74       4,74
+001505 VELA RAIO DE LUZ N§8 (25)      PC             279,00      7,25       7,25
+002184 VINAGRE ALCOOL NEVAL COLORIDO  UN               0,00      2,63       2,63
+002338 VINAGRE TOSCANO ALCOOL COL 750 UN             459,00      1,99       1,99
+000192 VINAGRE UNICO ALCOOL COLORIDO  UN               0,00      2,63       2,63
+002940 VINHO ADEGA DOS PAMPAS PET TSV PET             50,00     16,44      16,44
+001694 VINHO ALTITUDES CABERNET SAUVI LT               5,00     30,10      30,10
+001462 VINHO ALTITUDES CARMENERE 750M LT               6,00     30,10      30,10
+001461 VINHO ALTITUDES ROSE 750ML     LT               0,00     24,56      24,56
+000513 VINHO ARG. EL MONUMENTO RED BL LT              43,00     20,38      20,38
+000514 VINHO CANTINA DA SERRA PET T S UN               0,00      9,49       9,49
+000069 VINHO CANTINA DA SERRA PET T S LT               0,00      6,13       6,13
+000692 VINHO CANTINA DA SERRA TSV 300 FD             286,00     14,70      14,70
+000070 VINHO CANTINA DA SERRA TT SV P GF               0,00     27,30      27,30
+001573 VINHO CHI BODEGAZA RED BLAND 7 UN              94,00     21,32      21,32
+002348 VINHO CHI CONCHA Y TORO CABERN UN               0,00     26,98      26,98
+001576 VINHO COLLINA 750 ML TSC  (12) LT               0,00     11,39      11,39
+001460 VINHO COLLINA 750ML TSV  (12)  VD             102,00     11,39      11,39
+000729 VINHO DOM BOSCO TSC 750ML (12) UN               0,00     13,86      13,86
+001856 VINHO DOM BOSCO TSV 750ML (12) UN               0,00     13,86      13,86
+002095 VINHO DOM FELICIANO TSC BORDO  VD              46,00     22,26      22,26
+002094 VINHO DOM FELICIANO TSV BORDO  VD             330,00     22,26      22,26
+001868 VINHO GALIOTO BR SUAVE LT( 12) LT               0,00     15,47      15,47
+000521 VINHO GALIOTO TSC 4600ML       GF               0,00     76,65      76,65
+000522 VINHO GALIOTO TSV 4600ML       GF               0,00     76,65      76,65
+001540 VINHO MIOLO CABERNET MERLOT T  GR               0,00     34,93      34,93
+000728 VINHO MONTE CARMO TSV PET 2LT( PET              0,00     17,74      17,74
+000520 VINHO MOSCATEL CORSARIO PET 88 UN              33,00      7,18       7,18
+000787 VINHO QUINADO DUBAR 900ML (12) UN               7,00     24,02      24,02
+000519 VINHO QUINADO LINCOLN PET 900M LT               0,00      3,42       3,42
+002253 VINHO SANROVILLE TSV 750ML (12 UN               0,00      7,00       7,00
+000515 VINHO SANTILLE TSV 2LT(6)      PET             13,00     21,50      21,50
+001702 VINHO SOL DE CHILE CABERNET SA UN               0,00     30,59      30,59
+001574 VINHO SOL DE CHILE MALBEC 750M UN               6,00     30,59      30,59
+000160 VINHO SOLAR DE ESPANA T SV PET UN               0,00     11,06      11,06
+000159 VINHO SOLAR DE ESPANA T SV PET GF              24,00     33,18      33,18
+001154 VINHO SOLAR DE ESPANHA T SV 88 UN               0,00      7,29       7,29
+001351 VINHO SOLAR DE ESPANHA TSC 880 LT               0,00      5,35       5,35
+000786 VINHO ST¦ HELENA CAB SAUV TINT UN               0,00     34,16      34,16
+001572 VINHO ST¦ HELENA CARMENER TINT UN               0,00     34,16      34,16
+001301 VINHO ST¦ HELENA MERLOT TINTO  UD               0,00     34,16      34,16
+002242 VINHO TERRA SAO ROQUE T SV 750 UN               0,00      8,16       8,16
+002302 VINHO VINHAS DO SUL BR SUAVE 7 UN               0,00      7,00       7,00
+000694 VODKA ABSOLUT 1000ML (12)      LT               6,00    116,38     116,38
+000524 VODKA KOVAK LT (12)            LT             152,00     26,33      26,33
+001151 VODKA KRAKOVIA BIG APPLE 970ML PET              6,00     10,63      10,63
+002927 VODKA KRAKOVIA FR VERMELHAS 97 PET              0,00     10,63      10,63
+002928 VODKA KRAKOVIA LICHIA 970ML    LT             124,00     12,90      12,90
+002056 VODKA KRONOFF 900ML (6)        PET            340,00      8,57       8,57
+002260 VODKA LEONOFF 965ML (6)        LT               0,00     11,64      11,64
+000697 VODKA PRAVOIKA 900ML (06)      PET            615,00      7,46       7,46
+000148 VODKA SMIRNORFF 998ML(12)      LT              81,00     40,01      40,01
+001991 WHISKY BLACK STREET 900ML (6)  LT              29,00     21,71      21,71
+000699 WHISKY BLACK WHITE ORANGE BAM  UND              7,00     58,75      58,75
+002777 WHISKY CHIVAS REGAL 12 ANOS ED UN               3,00    165,10     165,10
+
+
+
+
+================================================================================
+CADASTRO DE PRODUTOS - Patrimonio Liquido                            P gina: 022
+                                                              Emissao:09/01/2024
+================================================================================
+Codigo Descricao das Mercadorias      Unidade         Saldo   A Vista    A Prazo
+================================================================================
+001965 WHISKY CHIVAS REGAL 12 ANOS MA UN               3,00    167,99     167,99
+000700 WHISKY GRANTS C/ CARTUCHO 1000 LT             119,00     81,50      81,50
+001414 WHISKY IMP BLACK WHITE LT 8 AN LT             277,00     81,11      81,11
+001957 WHISKY JACK DANIEL'S 1000ML (1 UN               0,00    136,42     136,42
+000701 WHISKY JOHNNIE WALKER BLACK 12 LT               0,00    159,21     159,21
+000144 WHISKY JOHNNIE WALKER RED LABE LT               0,00    113,71     113,71
+001408 WHISKY JOHNNIE WALKER RED LABE UN               0,00     34,26      34,26
+000061 WHISKY OLD EIGTH 1000ML (12)   LT               0,00     23,85      23,85
+000702 WHISKY TEACHER'S 1000ML (12)   LT               7,00     65,02      65,02
+002730 WHISKY TEACHERïS 1500ML (6)    UN               0,00     64,90      64,90
+001705 WHISKY WHITE HORSE 500ML       UN               0,00     32,48      32,48
+000704 WHISKY WHITE HORSE 8 ANOS LT ( LT               4,00     98,98      98,98
+002841 XAROPE DE LIMAO VELHO PITA E M LT             103,00      9,10       9,10
+--------------------------------------------------------------------------------
+                Total de Produtos:  1.189,00     204.208,00 43.013,98  43.009,02
